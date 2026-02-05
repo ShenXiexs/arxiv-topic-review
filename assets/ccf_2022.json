@@ -1,0 +1,5145 @@
+{
+  "source": "ccf_2022.pdf",
+  "entry_count": 573,
+  "entries": [
+    {
+      "name": "ACM Transactions on Computer Systems",
+      "abbr": "TOCS",
+      "level": "A",
+      "norm": "acm transactions on computer systems",
+      "norm_aggr": "acm computer systems",
+      "abbr_norm": "tocs",
+      "abbr_norm_aggr": "tocs"
+    },
+    {
+      "name": "ACM Transactions on Storage",
+      "abbr": "TOS",
+      "level": "A",
+      "norm": "acm transactions on storage",
+      "norm_aggr": "acm storage",
+      "abbr_norm": "tos",
+      "abbr_norm_aggr": "tos"
+    },
+    {
+      "name": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+      "abbr": "TCAD",
+      "level": "A",
+      "norm": "ieee transactions on computer aided design of integrated circuits and systems",
+      "norm_aggr": "ieee computer aided design integrated circuits systems",
+      "abbr_norm": "tcad",
+      "abbr_norm_aggr": "tcad"
+    },
+    {
+      "name": "IEEE Transactions on Computers",
+      "abbr": "TC",
+      "level": "A",
+      "norm": "ieee transactions on computers",
+      "norm_aggr": "ieee computers",
+      "abbr_norm": "tc",
+      "abbr_norm_aggr": "tc"
+    },
+    {
+      "name": "IEEE Transactions on Parallel and Distributed Systems",
+      "abbr": "TPDS",
+      "level": "A",
+      "norm": "ieee transactions on parallel and distributed systems",
+      "norm_aggr": "ieee parallel distributed systems",
+      "abbr_norm": "tpds",
+      "abbr_norm_aggr": "tpds"
+    },
+    {
+      "name": "ACM Transactions on Autonomous and Adaptive Systems",
+      "abbr": "TAAS",
+      "level": "B",
+      "norm": "acm transactions on autonomous and adaptive systems",
+      "norm_aggr": "acm autonomous adaptive systems",
+      "abbr_norm": "taas",
+      "abbr_norm_aggr": "taas"
+    },
+    {
+      "name": "ACM Transactions on Design Automation of Electronic Systems",
+      "abbr": "TODAES",
+      "level": "B",
+      "norm": "acm transactions on design automation of electronic systems",
+      "norm_aggr": "acm design automation electronic systems",
+      "abbr_norm": "todaes",
+      "abbr_norm_aggr": "todaes"
+    },
+    {
+      "name": "ACM Transactions on Embedded Computing Systems",
+      "abbr": "TECS",
+      "level": "B",
+      "norm": "acm transactions on embedded computing systems",
+      "norm_aggr": "acm embedded computing systems",
+      "abbr_norm": "tecs",
+      "abbr_norm_aggr": "tecs"
+    },
+    {
+      "name": "ACM Transactions on Reconfigurable Technology and Systems",
+      "abbr": "TRETS",
+      "level": "B",
+      "norm": "acm transactions on reconfigurable technology and systems",
+      "norm_aggr": "acm reconfigurable technology systems",
+      "abbr_norm": "trets",
+      "abbr_norm_aggr": "trets"
+    },
+    {
+      "name": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
+      "abbr": "TVLSI",
+      "level": "B",
+      "norm": "ieee transactions on very large scale integration vlsi systems",
+      "norm_aggr": "ieee very large scale integration vlsi systems",
+      "abbr_norm": "tvlsi",
+      "abbr_norm_aggr": "tvlsi"
+    },
+    {
+      "name": "Journal of Parallel and Distributed Computing",
+      "abbr": "JPDC",
+      "level": "B",
+      "norm": "journal of parallel and distributed computing",
+      "norm_aggr": "parallel distributed computing",
+      "abbr_norm": "jpdc",
+      "abbr_norm_aggr": "jpdc"
+    },
+    {
+      "name": "Journal of Systems Architecture: Embedded Software Design",
+      "abbr": "JSA",
+      "level": "B",
+      "norm": "journal of systems architecture embedded software design",
+      "norm_aggr": "systems architecture embedded software design",
+      "abbr_norm": "jsa",
+      "abbr_norm_aggr": "jsa"
+    },
+    {
+      "name": "ACM Journal on Emerging Technologies in Computing Systems",
+      "abbr": "JETC",
+      "level": "C",
+      "norm": "acm journal on emerging technologies in computing systems",
+      "norm_aggr": "acm emerging technologies in computing systems",
+      "abbr_norm": "jetc",
+      "abbr_norm_aggr": "jetc"
+    },
+    {
+      "name": "Experience",
+      "abbr": "Concurrency and Computation: Practice and",
+      "level": "C",
+      "norm": "experience",
+      "norm_aggr": "experience",
+      "abbr_norm": "concurrency and computation practice and",
+      "abbr_norm_aggr": "concurrency computation practice"
+    },
+    {
+      "name": "Distributed Computing",
+      "abbr": "DC",
+      "level": "C",
+      "norm": "distributed computing",
+      "norm_aggr": "distributed computing",
+      "abbr_norm": "dc",
+      "abbr_norm_aggr": "dc"
+    },
+    {
+      "name": "Future Generation Computer Systems",
+      "abbr": "FGCS",
+      "level": "C",
+      "norm": "future generation computer systems",
+      "norm_aggr": "future generation computer systems",
+      "abbr_norm": "fgcs",
+      "abbr_norm_aggr": "fgcs"
+    },
+    {
+      "name": "IEEE Transactions on Cloud Computing",
+      "abbr": "TCC",
+      "level": "C",
+      "norm": "ieee transactions on cloud computing",
+      "norm_aggr": "ieee cloud computing",
+      "abbr_norm": "tcc",
+      "abbr_norm_aggr": "tcc"
+    },
+    {
+      "name": "Integration, the VLSI Journal",
+      "abbr": "Integration",
+      "level": "C",
+      "norm": "integration the vlsi journal",
+      "norm_aggr": "integration vlsi",
+      "abbr_norm": "integration",
+      "abbr_norm_aggr": "integration"
+    },
+    {
+      "name": "Journal of Electronic Testing-Theory and Applications",
+      "abbr": "JETTA",
+      "level": "C",
+      "norm": "journal of electronic testing theory and applications",
+      "norm_aggr": "electronic testing theory applications",
+      "abbr_norm": "jetta",
+      "abbr_norm_aggr": "jetta"
+    },
+    {
+      "name": "Journal of Grid computing",
+      "abbr": "JGC",
+      "level": "C",
+      "norm": "journal of grid computing",
+      "norm_aggr": "grid computing",
+      "abbr_norm": "jgc",
+      "abbr_norm_aggr": "jgc"
+    },
+    {
+      "name": "Microprocessors and Microsystems: Embedded Hardware Design",
+      "abbr": "MICPRO",
+      "level": "C",
+      "norm": "microprocessors and microsystems embedded hardware design",
+      "norm_aggr": "microprocessors microsystems embedded hardware design",
+      "abbr_norm": "micpro",
+      "abbr_norm_aggr": "micpro"
+    },
+    {
+      "name": "Real-Time Systems",
+      "abbr": "RTS",
+      "level": "C",
+      "norm": "real time systems",
+      "norm_aggr": "real time systems",
+      "abbr_norm": "rts",
+      "abbr_norm_aggr": "rts"
+    },
+    {
+      "name": "The Journal of Supercomputing",
+      "abbr": "TJSC",
+      "level": "C",
+      "norm": "the journal of supercomputing",
+      "norm_aggr": "supercomputing",
+      "abbr_norm": "tjsc",
+      "abbr_norm_aggr": "tjsc"
+    },
+    {
+      "name": "IEEE Transactions on Circuits and Systems I: Regular Papers",
+      "abbr": "TCASI",
+      "level": "C",
+      "norm": "ieee transactions on circuits and systems i regular papers",
+      "norm_aggr": "ieee circuits systems i regular papers",
+      "abbr_norm": "tcasi",
+      "abbr_norm_aggr": "tcasi"
+    },
+    {
+      "name": "CCF Transactions on High CCF THPC Performance Computing",
+      "abbr": "CCF-",
+      "level": "C",
+      "norm": "ccf transactions on high ccf thpc performance computing",
+      "norm_aggr": "ccf high ccf thpc performance computing",
+      "abbr_norm": "ccf",
+      "abbr_norm_aggr": "ccf"
+    },
+    {
+      "name": "IEEE Transactions on Sustainable Computing",
+      "abbr": "TSUSC",
+      "level": "C",
+      "norm": "ieee transactions on sustainable computing",
+      "norm_aggr": "ieee sustainable computing",
+      "abbr_norm": "tsusc",
+      "abbr_norm_aggr": "tsusc"
+    },
+    {
+      "name": "ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming",
+      "abbr": "PPoPP",
+      "level": "A",
+      "norm": "acm sigplan symposium on principles and practice of parallel programming",
+      "norm_aggr": "acm sigplan principles practice parallel programming",
+      "abbr_norm": "ppopp",
+      "abbr_norm_aggr": "ppopp"
+    },
+    {
+      "name": "USENIX Conference on File and Storage USENIX Technologies",
+      "abbr": "FAST",
+      "level": "A",
+      "norm": "usenix conference on file and storage usenix technologies",
+      "norm_aggr": "usenix file storage usenix technologies",
+      "abbr_norm": "fast",
+      "abbr_norm_aggr": "fast"
+    },
+    {
+      "name": "Design Automation Conference",
+      "abbr": "DAC",
+      "level": "A",
+      "norm": "design automation conference",
+      "norm_aggr": "design automation",
+      "abbr_norm": "dac",
+      "abbr_norm_aggr": "dac"
+    },
+    {
+      "name": "IEEE International Symposium on High Performance Computer Architecture IEEE/ACM International Symposium on",
+      "abbr": "HPCA",
+      "level": "A",
+      "norm": "ieee international symposium on high performance computer architecture ieee acm international symposium on",
+      "norm_aggr": "ieee high performance computer architecture ieee acm",
+      "abbr_norm": "hpca",
+      "abbr_norm_aggr": "hpca"
+    },
+    {
+      "name": "Microarchitecture IEEE/ACM",
+      "abbr": "MICRO",
+      "level": "A",
+      "norm": "microarchitecture ieee acm",
+      "norm_aggr": "microarchitecture ieee acm",
+      "abbr_norm": "micro",
+      "abbr_norm_aggr": "micro"
+    },
+    {
+      "name": "International Conference for High Performance Computing, Networking, Storage, and Analysis",
+      "abbr": "SC",
+      "level": "A",
+      "norm": "international conference for high performance computing networking storage and analysis",
+      "norm_aggr": "high performance computing networking storage analysis",
+      "abbr_norm": "sc",
+      "abbr_norm_aggr": "sc"
+    },
+    {
+      "name": "International Conference on Architectural Support for Programming Languages and Operating Systems",
+      "abbr": "ASPLOS",
+      "level": "A",
+      "norm": "international conference on architectural support for programming languages and operating systems",
+      "norm_aggr": "architectural support programming languages operating systems",
+      "abbr_norm": "asplos",
+      "abbr_norm_aggr": "asplos"
+    },
+    {
+      "name": "International Symposium on Computer Architecture ACM /IEEE",
+      "abbr": "ISCA",
+      "level": "A",
+      "norm": "international symposium on computer architecture acm ieee",
+      "norm_aggr": "computer architecture acm ieee",
+      "abbr_norm": "isca",
+      "abbr_norm_aggr": "isca"
+    },
+    {
+      "name": "USENIX Annual Technical Conference USENIX",
+      "abbr": "USENIX ATC",
+      "level": "A",
+      "norm": "usenix annual technical conference usenix",
+      "norm_aggr": "usenix technical usenix",
+      "abbr_norm": "usenix atc",
+      "abbr_norm_aggr": "usenix atc"
+    },
+    {
+      "name": "ACM Symposium on Cloud Computing",
+      "abbr": "SoCC",
+      "level": "B",
+      "norm": "acm symposium on cloud computing",
+      "norm_aggr": "acm cloud computing",
+      "abbr_norm": "socc",
+      "abbr_norm_aggr": "socc"
+    },
+    {
+      "name": "ACM Symposium on Parallelism in Algorithms and Architectures",
+      "abbr": "SPAA",
+      "level": "B",
+      "norm": "acm symposium on parallelism in algorithms and architectures",
+      "norm_aggr": "acm parallelism in algorithms architectures",
+      "abbr_norm": "spaa",
+      "abbr_norm_aggr": "spaa"
+    },
+    {
+      "name": "ACM Symposium on Principles of Distributed Computing",
+      "abbr": "PODC",
+      "level": "B",
+      "norm": "acm symposium on principles of distributed computing",
+      "norm_aggr": "acm principles distributed computing",
+      "abbr_norm": "podc",
+      "abbr_norm_aggr": "podc"
+    },
+    {
+      "name": "ACM/SIGDA International Symposium on Field-Programmable Gate Arrays",
+      "abbr": "FPGA",
+      "level": "B",
+      "norm": "acm sigda international symposium on field programmable gate arrays",
+      "norm_aggr": "acm sigda field programmable gate arrays",
+      "abbr_norm": "fpga",
+      "abbr_norm_aggr": "fpga"
+    },
+    {
+      "name": "The International Symposium on Code Generation and IEEE/ACM Optimization",
+      "abbr": "CGO",
+      "level": "B",
+      "norm": "the international symposium on code generation and ieee acm optimization",
+      "norm_aggr": "code generation ieee acm optimization",
+      "abbr_norm": "cgo",
+      "abbr_norm_aggr": "cgo"
+    },
+    {
+      "name": "Design, Automation & Test in Europe IEEE/ACM",
+      "abbr": "DATE",
+      "level": "B",
+      "norm": "design automation and test in europe ieee acm",
+      "norm_aggr": "design automation test in europe ieee acm",
+      "abbr_norm": "date",
+      "abbr_norm_aggr": "date"
+    },
+    {
+      "name": "Hot Chips: A Symposium on High Performance Chips",
+      "abbr": "HOT CHIPS",
+      "level": "B",
+      "norm": "hot chips a symposium on high performance chips",
+      "norm_aggr": "hot chips a high performance chips",
+      "abbr_norm": "hot chips",
+      "abbr_norm_aggr": "hot chips"
+    },
+    {
+      "name": "IEEE International Conference on Cluster Computing",
+      "abbr": "CLUSTER",
+      "level": "B",
+      "norm": "ieee international conference on cluster computing",
+      "norm_aggr": "ieee cluster computing",
+      "abbr_norm": "cluster",
+      "abbr_norm_aggr": "cluster"
+    },
+    {
+      "name": "International Conference on Computer Design",
+      "abbr": "ICCD",
+      "level": "B",
+      "norm": "international conference on computer design",
+      "norm_aggr": "computer design",
+      "abbr_norm": "iccd",
+      "abbr_norm_aggr": "iccd"
+    },
+    {
+      "name": "International Conference on Computer-Aided Design IEEE/ACM",
+      "abbr": "ICCAD",
+      "level": "B",
+      "norm": "international conference on computer aided design ieee acm",
+      "norm_aggr": "computer aided design ieee acm",
+      "abbr_norm": "iccad",
+      "abbr_norm_aggr": "iccad"
+    },
+    {
+      "name": "IEEE International Conference on Distributed Computing Systems CODES+ISSS International Conference on Hardware/Software Co-design and ACM/ IEEE",
+      "abbr": "ICDCS",
+      "level": "B",
+      "norm": "ieee international conference on distributed computing systems codes isss international conference on hardware software co design and acm ieee",
+      "norm_aggr": "ieee distributed computing systems codes isss hardware software co design acm ieee",
+      "abbr_norm": "icdcs",
+      "abbr_norm_aggr": "icdcs"
+    },
+    {
+      "name": "trier.de/db/conf/codesisss/index.html",
+      "abbr": "System Synthesis",
+      "level": "B",
+      "norm": "trier de db conf codesisss index html",
+      "norm_aggr": "trier de db codesisss index html",
+      "abbr_norm": "system synthesis",
+      "abbr_norm_aggr": "system synthesis"
+    },
+    {
+      "name": "International Conference on High Performance and Embedded Architectures and Compilers SIGMETRICS International Conference on Measurement and Modeling of",
+      "abbr": "HiPEAC",
+      "level": "B",
+      "norm": "international conference on high performance and embedded architectures and compilers sigmetrics international conference on measurement and modeling of",
+      "norm_aggr": "high performance embedded architectures compilers sigmetrics measurement modeling",
+      "abbr_norm": "hipeac",
+      "abbr_norm_aggr": "hipeac"
+    },
+    {
+      "name": "International Conference on Parallel Architectures and IEEE/ACM",
+      "abbr": "Computer Systems PACT",
+      "level": "B",
+      "norm": "international conference on parallel architectures and ieee acm",
+      "norm_aggr": "parallel architectures ieee acm",
+      "abbr_norm": "computer systems pact",
+      "abbr_norm_aggr": "computer systems pact"
+    },
+    {
+      "name": "Compilation Techniques",
+      "abbr": "",
+      "level": "B",
+      "norm": "compilation techniques",
+      "norm_aggr": "compilation techniques"
+    },
+    {
+      "name": "International Conference on Parallel Processing",
+      "abbr": "ICPP",
+      "level": "B",
+      "norm": "international conference on parallel processing",
+      "norm_aggr": "parallel processing",
+      "abbr_norm": "icpp",
+      "abbr_norm_aggr": "icpp"
+    },
+    {
+      "name": "International Conference on Supercomputing",
+      "abbr": "ICS",
+      "level": "B",
+      "norm": "international conference on supercomputing",
+      "norm_aggr": "supercomputing",
+      "abbr_norm": "ics",
+      "abbr_norm_aggr": "ics"
+    },
+    {
+      "name": "International Conference on Virtual Execution Environments",
+      "abbr": "VEE",
+      "level": "B",
+      "norm": "international conference on virtual execution environments",
+      "norm_aggr": "virtual execution environments",
+      "abbr_norm": "vee",
+      "abbr_norm_aggr": "vee"
+    },
+    {
+      "name": "IEEE International Parallel & Distributed Processing Symposium",
+      "abbr": "IPDPS",
+      "level": "B",
+      "norm": "ieee international parallel and distributed processing symposium",
+      "norm_aggr": "ieee parallel distributed processing",
+      "abbr_norm": "ipdps",
+      "abbr_norm_aggr": "ipdps"
+    },
+    {
+      "name": "International Symposium on Computer Performance, Modeling, Measurements and Evaluation HPDC The International ACM Symposium on High-Performance",
+      "abbr": "Performance",
+      "level": "B",
+      "norm": "international symposium on computer performance modeling measurements and evaluation hpdc the international acm symposium on high performance",
+      "norm_aggr": "computer performance modeling measurements evaluation hpdc acm high performance",
+      "abbr_norm": "performance",
+      "abbr_norm_aggr": "performance"
+    },
+    {
+      "name": "Parallel and Distributed Computing",
+      "abbr": "",
+      "level": "B",
+      "norm": "parallel and distributed computing",
+      "norm_aggr": "parallel distributed computing"
+    },
+    {
+      "name": "International Test Conference",
+      "abbr": "ITC",
+      "level": "B",
+      "norm": "international test conference",
+      "norm_aggr": "test",
+      "abbr_norm": "itc",
+      "abbr_norm_aggr": "itc"
+    },
+    {
+      "name": "Large Installation System Administration Conference USENIX",
+      "abbr": "LISA",
+      "level": "B",
+      "norm": "large installation system administration conference usenix",
+      "norm_aggr": "large installation system administration usenix",
+      "abbr_norm": "lisa",
+      "abbr_norm_aggr": "lisa"
+    },
+    {
+      "name": "Mass Storage Systems and Technologies RTAS IEEE Real-Time and Embedded Technology and Applications",
+      "abbr": "MSST",
+      "level": "B",
+      "norm": "mass storage systems and technologies rtas ieee real time and embedded technology and applications",
+      "norm_aggr": "mass storage systems technologies rtas ieee real time embedded technology applications",
+      "abbr_norm": "msst",
+      "abbr_norm_aggr": "msst"
+    },
+    {
+      "name": "Symposium",
+      "abbr": "",
+      "level": "B",
+      "norm": "symposium",
+      "norm_aggr": ""
+    },
+    {
+      "name": "ACM International Conference on Computing Frontiers",
+      "abbr": "CF",
+      "level": "C",
+      "norm": "acm international conference on computing frontiers",
+      "norm_aggr": "acm computing frontiers",
+      "abbr_norm": "cf",
+      "abbr_norm_aggr": "cf"
+    },
+    {
+      "name": "ACM International Systems and Storage Conference",
+      "abbr": "SYSTOR",
+      "level": "C",
+      "norm": "acm international systems and storage conference",
+      "norm_aggr": "acm systems storage",
+      "abbr_norm": "systor",
+      "abbr_norm_aggr": "systor"
+    },
+    {
+      "name": "ACM/IEEE International Symposium on Networks-on-Chip ACM/IEEE",
+      "abbr": "NOCS",
+      "level": "C",
+      "norm": "acm ieee international symposium on networks on chip acm ieee",
+      "norm_aggr": "acm ieee networks chip acm ieee",
+      "abbr_norm": "nocs",
+      "abbr_norm_aggr": "nocs"
+    },
+    {
+      "name": "IEEE International Conference on Application-Specific Systems, Architectures, and Processors",
+      "abbr": "ASAP",
+      "level": "C",
+      "norm": "ieee international conference on application specific systems architectures and processors",
+      "norm_aggr": "ieee application specific systems architectures processors",
+      "abbr_norm": "asap",
+      "abbr_norm_aggr": "asap"
+    },
+    {
+      "name": "Asia and South Pacific Design Automation Conference ACM/IEEE",
+      "abbr": "ASP-DAC",
+      "level": "C",
+      "norm": "asia and south pacific design automation conference acm ieee",
+      "norm_aggr": "asia south pacific design automation acm ieee",
+      "abbr_norm": "asp dac",
+      "abbr_norm_aggr": "asp dac"
+    },
+    {
+      "name": "IEEE European Test Symposium",
+      "abbr": "ETS",
+      "level": "C",
+      "norm": "ieee european test symposium",
+      "norm_aggr": "ieee european test",
+      "abbr_norm": "ets",
+      "abbr_norm_aggr": "ets"
+    },
+    {
+      "name": "International Conference on Field-Programmable Logic and Applications",
+      "abbr": "FPL",
+      "level": "C",
+      "norm": "international conference on field programmable logic and applications",
+      "norm_aggr": "field programmable logic applications",
+      "abbr_norm": "fpl",
+      "abbr_norm_aggr": "fpl"
+    },
+    {
+      "name": "IEEE Symposium on Field-Programmable Custom Computing Machines",
+      "abbr": "FCCM",
+      "level": "C",
+      "norm": "ieee symposium on field programmable custom computing machines",
+      "norm_aggr": "ieee field programmable custom computing machines",
+      "abbr_norm": "fccm",
+      "abbr_norm_aggr": "fccm"
+    },
+    {
+      "name": "Great Lakes Symposium on VLSI ACM/IEEE",
+      "abbr": "GLSVLSI",
+      "level": "C",
+      "norm": "great lakes symposium on vlsi acm ieee",
+      "norm_aggr": "great lakes vlsi acm ieee",
+      "abbr_norm": "glsvlsi",
+      "abbr_norm_aggr": "glsvlsi"
+    },
+    {
+      "name": "IEEE Asian Test Symposium",
+      "abbr": "ATS",
+      "level": "C",
+      "norm": "ieee asian test symposium",
+      "norm_aggr": "ieee asian test",
+      "abbr_norm": "ats",
+      "abbr_norm_aggr": "ats"
+    },
+    {
+      "name": "IEEE International Conference on High Performance Computing and Communications HiPC IEEE International Conference on High Performance IEEE/ ACM",
+      "abbr": "HPCC",
+      "level": "C",
+      "norm": "ieee international conference on high performance computing and communications hipc ieee international conference on high performance ieee acm",
+      "norm_aggr": "ieee high performance computing communications hipc ieee high performance ieee acm",
+      "abbr_norm": "hpcc",
+      "abbr_norm_aggr": "hpcc"
+    },
+    {
+      "name": "International Symposium on Modeling, Analysis, and",
+      "abbr": "Computing, Data and Analytics MASCOTS",
+      "level": "C",
+      "norm": "international symposium on modeling analysis and",
+      "norm_aggr": "modeling analysis",
+      "abbr_norm": "computing data and analytics mascots",
+      "abbr_norm_aggr": "computing data analytics mascots"
+    },
+    {
+      "name": "IEEE International Symposium on Parallel and Distributed",
+      "abbr": "Simulation of Computer and Telecommunication Systems ISPA",
+      "level": "C",
+      "norm": "ieee international symposium on parallel and distributed",
+      "norm_aggr": "ieee parallel distributed",
+      "abbr_norm": "simulation of computer and telecommunication systems ispa",
+      "abbr_norm_aggr": "simulation computer telecommunication systems ispa"
+    },
+    {
+      "name": "Processing with Applications",
+      "abbr": "",
+      "level": "C",
+      "norm": "processing with applications",
+      "norm_aggr": "processing with applications"
+    },
+    {
+      "name": "IEEE/ACM International Symposium on Cluster, Cloud and ACM/IEEE Grid Computing NPC IFIP International Conference on Network and Parallel",
+      "abbr": "CCGRID",
+      "level": "C",
+      "norm": "ieee acm international symposium on cluster cloud and acm ieee grid computing npc ifip international conference on network and parallel",
+      "norm_aggr": "ieee acm cluster cloud acm ieee grid computing npc ifip network parallel",
+      "abbr_norm": "ccgrid",
+      "abbr_norm_aggr": "ccgrid"
+    },
+    {
+      "name": "International Conference on Algorithms and Architectures for",
+      "abbr": "Computing ICA3PP",
+      "level": "C",
+      "norm": "international conference on algorithms and architectures for",
+      "norm_aggr": "algorithms architectures",
+      "abbr_norm": "computing ica3pp",
+      "abbr_norm_aggr": "computing ica3pp"
+    },
+    {
+      "name": "International Conference on Compilers, Architectures, and",
+      "abbr": "Parallel Processing CASES",
+      "level": "C",
+      "norm": "international conference on compilers architectures and",
+      "norm_aggr": "compilers architectures",
+      "abbr_norm": "parallel processing cases",
+      "abbr_norm_aggr": "parallel processing cases"
+    },
+    {
+      "name": "Synthesis for Embedded Systems",
+      "abbr": "",
+      "level": "C",
+      "norm": "synthesis for embedded systems",
+      "norm_aggr": "synthesis embedded systems"
+    },
+    {
+      "name": "International Conference on Field-Programmable Technology",
+      "abbr": "FPT",
+      "level": "C",
+      "norm": "international conference on field programmable technology",
+      "norm_aggr": "field programmable technology",
+      "abbr_norm": "fpt",
+      "abbr_norm_aggr": "fpt"
+    },
+    {
+      "name": "International Conference on Parallel and Distributed Systems",
+      "abbr": "ICPADS",
+      "level": "C",
+      "norm": "international conference on parallel and distributed systems",
+      "norm_aggr": "parallel distributed systems",
+      "abbr_norm": "icpads",
+      "abbr_norm_aggr": "icpads"
+    },
+    {
+      "name": "IEEE International Symposium on Circuits and Systems",
+      "abbr": "ISCAS",
+      "level": "C",
+      "norm": "ieee international symposium on circuits and systems",
+      "norm_aggr": "ieee circuits systems",
+      "abbr_norm": "iscas",
+      "abbr_norm_aggr": "iscas"
+    },
+    {
+      "name": "International Symposium on Low Power Electronics and ACM/IEEE Design",
+      "abbr": "ISLPED",
+      "level": "C",
+      "norm": "international symposium on low power electronics and acm ieee design",
+      "norm_aggr": "low power electronics acm ieee design",
+      "abbr_norm": "islped",
+      "abbr_norm_aggr": "islped"
+    },
+    {
+      "name": "International Symposium on Physical Design",
+      "abbr": "ISPD",
+      "level": "C",
+      "norm": "international symposium on physical design",
+      "norm_aggr": "physical design",
+      "abbr_norm": "ispd",
+      "abbr_norm_aggr": "ispd"
+    },
+    {
+      "name": "IEEE Symposium on High-Performance Interconnects",
+      "abbr": "HOTI",
+      "level": "C",
+      "norm": "ieee symposium on high performance interconnects",
+      "norm_aggr": "ieee high performance interconnects",
+      "abbr_norm": "hoti",
+      "abbr_norm_aggr": "hoti"
+    },
+    {
+      "name": "IEEE VLSI Test Symposium",
+      "abbr": "VTS",
+      "level": "C",
+      "norm": "ieee vlsi test symposium",
+      "norm_aggr": "ieee vlsi test",
+      "abbr_norm": "vts",
+      "abbr_norm_aggr": "vts"
+    },
+    {
+      "name": "International Test Conference in Asia",
+      "abbr": "ITC-Asia",
+      "level": "C",
+      "norm": "international test conference in asia",
+      "norm_aggr": "test in asia",
+      "abbr_norm": "itc asia",
+      "abbr_norm_aggr": "itc asia"
+    },
+    {
+      "name": "IEEE Journal on Selected Areas in Communications",
+      "abbr": "JSAC",
+      "level": "A",
+      "norm": "ieee journal on selected areas in communications",
+      "norm_aggr": "ieee selected areas in communications",
+      "abbr_norm": "jsac",
+      "abbr_norm_aggr": "jsac"
+    },
+    {
+      "name": "IEEE Transactions on Mobile Computing",
+      "abbr": "TMC",
+      "level": "A",
+      "norm": "ieee transactions on mobile computing",
+      "norm_aggr": "ieee mobile computing",
+      "abbr_norm": "tmc",
+      "abbr_norm_aggr": "tmc"
+    },
+    {
+      "name": "ACM Transactions on Internet Technology",
+      "abbr": "TOIT",
+      "level": "B",
+      "norm": "acm transactions on internet technology",
+      "norm_aggr": "acm internet technology",
+      "abbr_norm": "toit",
+      "abbr_norm_aggr": "toit"
+    },
+    {
+      "name": "ACM Transactions on Multimedia Computing, Communications and Applications",
+      "abbr": "TOMM",
+      "level": "B",
+      "norm": "acm transactions on multimedia computing communications and applications",
+      "norm_aggr": "acm multimedia computing communications applications",
+      "abbr_norm": "tomm",
+      "abbr_norm_aggr": "tomm"
+    },
+    {
+      "name": "ACM Transactions on Sensor Networks",
+      "abbr": "TOSN",
+      "level": "B",
+      "norm": "acm transactions on sensor networks",
+      "norm_aggr": "acm sensor networks",
+      "abbr_norm": "tosn",
+      "abbr_norm_aggr": "tosn"
+    },
+    {
+      "name": "Computer Networks",
+      "abbr": "CN",
+      "level": "B",
+      "norm": "computer networks",
+      "norm_aggr": "computer networks",
+      "abbr_norm": "cn",
+      "abbr_norm_aggr": "cn"
+    },
+    {
+      "name": "IEEE Transactions on Communications",
+      "abbr": "TCOM",
+      "level": "B",
+      "norm": "ieee transactions on communications",
+      "norm_aggr": "ieee communications",
+      "abbr_norm": "tcom",
+      "abbr_norm_aggr": "tcom"
+    },
+    {
+      "name": "Computer Communications",
+      "abbr": "CC",
+      "level": "C",
+      "norm": "computer communications",
+      "norm_aggr": "computer communications",
+      "abbr_norm": "cc",
+      "abbr_norm_aggr": "cc"
+    },
+    {
+      "name": "IEEE Transactions on Network and Service Management",
+      "abbr": "TNSM",
+      "level": "C",
+      "norm": "ieee transactions on network and service management",
+      "norm_aggr": "ieee network service management",
+      "abbr_norm": "tnsm",
+      "abbr_norm_aggr": "tnsm"
+    },
+    {
+      "name": "IET",
+      "abbr": "IET Communications",
+      "level": "C",
+      "norm": "iet",
+      "norm_aggr": "iet",
+      "abbr_norm": "iet communications",
+      "abbr_norm_aggr": "iet communications"
+    },
+    {
+      "name": "Journal of Network and Computer Applications",
+      "abbr": "JNCA",
+      "level": "C",
+      "norm": "journal of network and computer applications",
+      "norm_aggr": "network computer applications",
+      "abbr_norm": "jnca",
+      "abbr_norm_aggr": "jnca"
+    },
+    {
+      "name": "Mobile Networks and Applications",
+      "abbr": "MONET",
+      "level": "C",
+      "norm": "mobile networks and applications",
+      "norm_aggr": "mobile networks applications",
+      "abbr_norm": "monet",
+      "abbr_norm_aggr": "monet"
+    },
+    {
+      "name": "Peer-to-Peer Networking and Applications",
+      "abbr": "PPNA",
+      "level": "C",
+      "norm": "peer to peer networking and applications",
+      "norm_aggr": "peer to peer networking applications",
+      "abbr_norm": "ppna",
+      "abbr_norm_aggr": "ppna"
+    },
+    {
+      "name": "Wireless Communications and Mobile Computing",
+      "abbr": "WCMC",
+      "level": "C",
+      "norm": "wireless communications and mobile computing",
+      "norm_aggr": "wireless communications mobile computing",
+      "abbr_norm": "wcmc",
+      "abbr_norm_aggr": "wcmc"
+    },
+    {
+      "name": "IEEE Internet of Things Journal",
+      "abbr": "IOT",
+      "level": "C",
+      "norm": "ieee internet of things journal",
+      "norm_aggr": "ieee internet things",
+      "abbr_norm": "iot",
+      "abbr_norm_aggr": "iot"
+    },
+    {
+      "name": "ACM International Conference on Applications,",
+      "abbr": "",
+      "level": "A",
+      "norm": "acm international conference on applications",
+      "norm_aggr": "acm applications"
+    },
+    {
+      "name": "Technologies, Architectures, and Protocols for Computer Communication",
+      "abbr": "SIGCOMM",
+      "level": "A",
+      "norm": "technologies architectures and protocols for computer communication",
+      "norm_aggr": "technologies architectures protocols computer communication",
+      "abbr_norm": "sigcomm",
+      "abbr_norm_aggr": "sigcomm"
+    },
+    {
+      "name": "ACM International Conference on Mobile Computing and Networking",
+      "abbr": "MobiCom",
+      "level": "A",
+      "norm": "acm international conference on mobile computing and networking",
+      "norm_aggr": "acm mobile computing networking",
+      "abbr_norm": "mobicom",
+      "abbr_norm_aggr": "mobicom"
+    },
+    {
+      "name": "IEEE International Conference on Computer Communications",
+      "abbr": "INFOCOM",
+      "level": "A",
+      "norm": "ieee international conference on computer communications",
+      "norm_aggr": "ieee computer communications",
+      "abbr_norm": "infocom",
+      "abbr_norm_aggr": "infocom"
+    },
+    {
+      "name": "ACM Conference on Embedded Networked Sensor Systems",
+      "abbr": "SenSys",
+      "level": "B",
+      "norm": "acm conference on embedded networked sensor systems",
+      "norm_aggr": "acm embedded networked sensor systems",
+      "abbr_norm": "sensys",
+      "abbr_norm_aggr": "sensys"
+    },
+    {
+      "name": "ACM International Conference on Emerging Networking Experiments and Technologies",
+      "abbr": "CoNEXT",
+      "level": "B",
+      "norm": "acm international conference on emerging networking experiments and technologies",
+      "norm_aggr": "acm emerging networking experiments technologies",
+      "abbr_norm": "conext",
+      "abbr_norm_aggr": "conext"
+    },
+    {
+      "name": "IEEE International Conference on Sensing, Communication, and Networking",
+      "abbr": "SECON",
+      "level": "B",
+      "norm": "ieee international conference on sensing communication and networking",
+      "norm_aggr": "ieee sensing communication networking",
+      "abbr_norm": "secon",
+      "abbr_norm_aggr": "secon"
+    },
+    {
+      "name": "International Conference on Information Processing in Sensor IEEE/ACM Networks",
+      "abbr": "IPSN",
+      "level": "B",
+      "norm": "international conference on information processing in sensor ieee acm networks",
+      "norm_aggr": "information processing in sensor ieee acm networks",
+      "abbr_norm": "ipsn",
+      "abbr_norm_aggr": "ipsn"
+    },
+    {
+      "name": "ACM International Conference on Mobile Systems, Applications, and Services",
+      "abbr": "MobiSys",
+      "level": "B",
+      "norm": "acm international conference on mobile systems applications and services",
+      "norm_aggr": "acm mobile systems applications services",
+      "abbr_norm": "mobisys",
+      "abbr_norm_aggr": "mobisys"
+    },
+    {
+      "name": "IEEE International Conference on Network Protocols",
+      "abbr": "ICNP",
+      "level": "B",
+      "norm": "ieee international conference on network protocols",
+      "norm_aggr": "ieee network protocols",
+      "abbr_norm": "icnp",
+      "abbr_norm_aggr": "icnp"
+    },
+    {
+      "name": "International Symposium on Theory, Algorithmic Foundations, and ACM/IEEE Protocol Design for Mobile Networks and Mobile Computing",
+      "abbr": "MobiHoc",
+      "level": "B",
+      "norm": "international symposium on theory algorithmic foundations and acm ieee protocol design for mobile networks and mobile computing",
+      "norm_aggr": "theory algorithmic foundations acm ieee protocol design mobile networks mobile computing",
+      "abbr_norm": "mobihoc",
+      "abbr_norm_aggr": "mobihoc"
+    },
+    {
+      "name": "International Workshop on Network and Operating System Support for Digital Audio and Video",
+      "abbr": "NOSSDAV",
+      "level": "B",
+      "norm": "international workshop on network and operating system support for digital audio and video",
+      "norm_aggr": "network operating system support digital audio video",
+      "abbr_norm": "nossdav",
+      "abbr_norm_aggr": "nossdav"
+    },
+    {
+      "name": "IEEE/ACM International Workshop on Quality of Service",
+      "abbr": "IWQoS",
+      "level": "B",
+      "norm": "ieee acm international workshop on quality of service",
+      "norm_aggr": "ieee acm quality service",
+      "abbr_norm": "iwqos",
+      "abbr_norm_aggr": "iwqos"
+    },
+    {
+      "name": "ACM/IEEE Symposium on Architectures for Networking and ACM/IEE Communication Systems E",
+      "abbr": "ANCS",
+      "level": "C",
+      "norm": "acm ieee symposium on architectures for networking and acm iee communication systems e",
+      "norm_aggr": "acm ieee architectures networking acm iee communication systems e",
+      "abbr_norm": "ancs",
+      "abbr_norm_aggr": "ancs"
+    },
+    {
+      "name": "Asia-Pacific Network Operations and Management Symposium IFIP/IEEE",
+      "abbr": "APNOMS",
+      "level": "C",
+      "norm": "asia pacific network operations and management symposium ifip ieee",
+      "norm_aggr": "asia pacific network operations management ifip ieee",
+      "abbr_norm": "apnoms",
+      "abbr_norm_aggr": "apnoms"
+    },
+    {
+      "name": "International Conference on Formal Techniques for Distributed Objects, Components, and Systems",
+      "abbr": "FORTE",
+      "level": "C",
+      "norm": "international conference on formal techniques for distributed objects components and systems",
+      "norm_aggr": "formal techniques distributed objects components systems",
+      "abbr_norm": "forte",
+      "abbr_norm_aggr": "forte"
+    },
+    {
+      "name": "IEEE Conference on Local Computer Networks",
+      "abbr": "LCN",
+      "level": "C",
+      "norm": "ieee conference on local computer networks",
+      "norm_aggr": "ieee local computer networks",
+      "abbr_norm": "lcn",
+      "abbr_norm_aggr": "lcn"
+    },
+    {
+      "name": "IEEE Global Communications Conference M",
+      "abbr": "GLOBECO",
+      "level": "C",
+      "norm": "ieee global communications conference m",
+      "norm_aggr": "ieee global communications m",
+      "abbr_norm": "globeco",
+      "abbr_norm_aggr": "globeco"
+    },
+    {
+      "name": "IEEE International Conference on Communications",
+      "abbr": "ICC",
+      "level": "C",
+      "norm": "ieee international conference on communications",
+      "norm_aggr": "ieee communications",
+      "abbr_norm": "icc",
+      "abbr_norm_aggr": "icc"
+    },
+    {
+      "name": "IEEE International Conference on Computer Communications and Networks",
+      "abbr": "ICCCN",
+      "level": "C",
+      "norm": "ieee international conference on computer communications and networks",
+      "norm_aggr": "ieee computer communications networks",
+      "abbr_norm": "icccn",
+      "abbr_norm_aggr": "icccn"
+    },
+    {
+      "name": "IEEE International Conference on Mobile Adhoc and Sensor Systems",
+      "abbr": "MASS",
+      "level": "C",
+      "norm": "ieee international conference on mobile adhoc and sensor systems",
+      "norm_aggr": "ieee mobile adhoc sensor systems",
+      "abbr_norm": "mass",
+      "abbr_norm_aggr": "mass"
+    },
+    {
+      "name": "IEEE International Conference on Peer-to-Peer Computing",
+      "abbr": "P2P",
+      "level": "C",
+      "norm": "ieee international conference on peer to peer computing",
+      "norm_aggr": "ieee peer to peer computing",
+      "abbr_norm": "p2p",
+      "abbr_norm_aggr": "p2p"
+    },
+    {
+      "name": "IEEE International Performance Computing and Communications Conference",
+      "abbr": "IPCCC",
+      "level": "C",
+      "norm": "ieee international performance computing and communications conference",
+      "norm_aggr": "ieee performance computing communications",
+      "abbr_norm": "ipccc",
+      "abbr_norm_aggr": "ipccc"
+    },
+    {
+      "name": "IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks",
+      "abbr": "WoWMoM",
+      "level": "C",
+      "norm": "ieee international symposium on a world of wireless mobile and multimedia networks",
+      "norm_aggr": "ieee a world wireless mobile multimedia networks",
+      "abbr_norm": "wowmom",
+      "abbr_norm_aggr": "wowmom"
+    },
+    {
+      "name": "IEEE Symposium on Computers and Communications",
+      "abbr": "ISCC",
+      "level": "C",
+      "norm": "ieee symposium on computers and communications",
+      "norm_aggr": "ieee computers communications",
+      "abbr_norm": "iscc",
+      "abbr_norm_aggr": "iscc"
+    },
+    {
+      "name": "IEEE Wireless Communications and Networking Conference",
+      "abbr": "WCNC",
+      "level": "C",
+      "norm": "ieee wireless communications and networking conference",
+      "norm_aggr": "ieee wireless communications networking",
+      "abbr_norm": "wcnc",
+      "abbr_norm_aggr": "wcnc"
+    },
+    {
+      "name": "IFIP International Conferences on Networking IFIP trier.de/db/conf/networking/index.html",
+      "abbr": "Networking",
+      "level": "C",
+      "norm": "ifip international conferences on networking ifip trier de db conf networking index html",
+      "norm_aggr": "ifip conferences networking ifip trier de db networking index html",
+      "abbr_norm": "networking",
+      "abbr_norm_aggr": "networking"
+    },
+    {
+      "name": "IFIP/IEEE International Symposium on Integrated Network IFIP/IEEE Management",
+      "abbr": "IM",
+      "level": "C",
+      "norm": "ifip ieee international symposium on integrated network ifip ieee management",
+      "norm_aggr": "ifip ieee integrated network ifip ieee management",
+      "abbr_norm": "im",
+      "abbr_norm_aggr": "im"
+    },
+    {
+      "name": "International Conference on Mobility, Sensing and Networking",
+      "abbr": "MSN",
+      "level": "C",
+      "norm": "international conference on mobility sensing and networking",
+      "norm_aggr": "mobility sensing networking",
+      "abbr_norm": "msn",
+      "abbr_norm_aggr": "msn"
+    },
+    {
+      "name": "International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems",
+      "abbr": "MSWiM",
+      "level": "C",
+      "norm": "international conference on modeling analysis and simulation of wireless and mobile systems",
+      "norm_aggr": "modeling analysis simulation wireless mobile systems",
+      "abbr_norm": "mswim",
+      "abbr_norm_aggr": "mswim"
+    },
+    {
+      "name": "International Conference on Wireless Algorithms, Systems, and Applications",
+      "abbr": "WASA",
+      "level": "C",
+      "norm": "international conference on wireless algorithms systems and applications",
+      "norm_aggr": "wireless algorithms systems applications",
+      "abbr_norm": "wasa",
+      "abbr_norm_aggr": "wasa"
+    },
+    {
+      "name": "ACM The Workshop on Hot Topics in Networks",
+      "abbr": "HotNets",
+      "level": "C",
+      "norm": "acm the workshop on hot topics in networks",
+      "norm_aggr": "acm hot topics in networks",
+      "abbr_norm": "hotnets",
+      "abbr_norm_aggr": "hotnets"
+    },
+    {
+      "name": "Asia-Pacific Workshop on Networking",
+      "abbr": "APNet",
+      "level": "C",
+      "norm": "asia pacific workshop on networking",
+      "norm_aggr": "asia pacific networking",
+      "abbr_norm": "apnet",
+      "abbr_norm_aggr": "apnet"
+    },
+    {
+      "name": "IEEE Transactions on Dependable and Secure Computing",
+      "abbr": "TDSC",
+      "level": "A",
+      "norm": "ieee transactions on dependable and secure computing",
+      "norm_aggr": "ieee dependable secure computing",
+      "abbr_norm": "tdsc",
+      "abbr_norm_aggr": "tdsc"
+    },
+    {
+      "name": "IEEE Transactions on Information Forensics and Security",
+      "abbr": "TIFS",
+      "level": "A",
+      "norm": "ieee transactions on information forensics and security",
+      "norm_aggr": "ieee information forensics security",
+      "abbr_norm": "tifs",
+      "abbr_norm_aggr": "tifs"
+    },
+    {
+      "name": "ACM Transactions on Privacy and Security l",
+      "abbr": "TOPS",
+      "level": "B",
+      "norm": "acm transactions on privacy and security l",
+      "norm_aggr": "acm privacy security l",
+      "abbr_norm": "tops",
+      "abbr_norm_aggr": "tops"
+    },
+    {
+      "name": "Computer Law & Security Review",
+      "abbr": "CLSR",
+      "level": "C",
+      "norm": "computer law and security review",
+      "norm_aggr": "computer law security review",
+      "abbr_norm": "clsr",
+      "abbr_norm_aggr": "clsr"
+    },
+    {
+      "name": "IET",
+      "abbr": "IET Information Security",
+      "level": "C",
+      "norm": "iet",
+      "norm_aggr": "iet",
+      "abbr_norm": "iet information security",
+      "abbr_norm_aggr": "iet information security"
+    },
+    {
+      "name": "Information and Computer Security Emerald",
+      "abbr": "IMCS",
+      "level": "C",
+      "norm": "information and computer security emerald",
+      "norm_aggr": "information computer security emerald",
+      "abbr_norm": "imcs",
+      "abbr_norm_aggr": "imcs"
+    },
+    {
+      "name": "International Journal of Information and Computer Security Inderscience",
+      "abbr": "IJICS",
+      "level": "C",
+      "norm": "international journal of information and computer security inderscience",
+      "norm_aggr": "information computer security inderscience",
+      "abbr_norm": "ijics",
+      "abbr_norm_aggr": "ijics"
+    },
+    {
+      "name": "International Journal of Information Security and Privacy IGI Global",
+      "abbr": "IJISP",
+      "level": "C",
+      "norm": "international journal of information security and privacy igi global",
+      "norm_aggr": "information security privacy igi global",
+      "abbr_norm": "ijisp",
+      "abbr_norm_aggr": "ijisp"
+    },
+    {
+      "name": "Journal of Information Security and Applications",
+      "abbr": "JISA",
+      "level": "C",
+      "norm": "journal of information security and applications",
+      "norm_aggr": "information security applications",
+      "abbr_norm": "jisa",
+      "abbr_norm_aggr": "jisa"
+    },
+    {
+      "name": "Security and Communication Networks https://dblp.uni-",
+      "abbr": "SCN",
+      "level": "C",
+      "norm": "security and communication networks https dblp uni",
+      "norm_aggr": "security communication networks https dblp uni",
+      "abbr_norm": "scn",
+      "abbr_norm_aggr": "scn"
+    },
+    {
+      "name": "trier.de/db/journals/cybersec/index.html",
+      "abbr": "Cybersecurity",
+      "level": "C",
+      "norm": "trier de db journals cybersec index html",
+      "norm_aggr": "trier de db journals cybersec index html",
+      "abbr_norm": "cybersecurity",
+      "abbr_norm_aggr": "cybersecurity"
+    },
+    {
+      "name": "ACM Conference on Computer and Communications Security",
+      "abbr": "CCS",
+      "level": "A",
+      "norm": "acm conference on computer and communications security",
+      "norm_aggr": "acm computer communications security",
+      "abbr_norm": "ccs",
+      "abbr_norm_aggr": "ccs"
+    },
+    {
+      "name": "International Conference on the Theory and Applications of Cryptographic Techniques",
+      "abbr": "EUROCRYPT",
+      "level": "A",
+      "norm": "international conference on the theory and applications of cryptographic techniques",
+      "norm_aggr": "theory applications cryptographic techniques",
+      "abbr_norm": "eurocrypt",
+      "abbr_norm_aggr": "eurocrypt"
+    },
+    {
+      "name": "IEEE Symposium on Security and Privacy",
+      "abbr": "S&P",
+      "level": "A",
+      "norm": "ieee symposium on security and privacy",
+      "norm_aggr": "ieee security privacy",
+      "abbr_norm": "s and p",
+      "abbr_norm_aggr": "s p"
+    },
+    {
+      "name": "International Cryptology Conference",
+      "abbr": "CRYPTO",
+      "level": "A",
+      "norm": "international cryptology conference",
+      "norm_aggr": "cryptology",
+      "abbr_norm": "crypto",
+      "abbr_norm_aggr": "crypto"
+    },
+    {
+      "name": "USENIX Security Symposium USENIX Association",
+      "abbr": "USENIX Security",
+      "level": "A",
+      "norm": "usenix security symposium usenix association",
+      "norm_aggr": "usenix security usenix",
+      "abbr_norm": "usenix security",
+      "abbr_norm_aggr": "usenix security"
+    },
+    {
+      "name": "Annual Computer Security Applications Conference",
+      "abbr": "ACSAC",
+      "level": "B",
+      "norm": "annual computer security applications conference",
+      "norm_aggr": "computer security applications",
+      "abbr_norm": "acsac",
+      "abbr_norm_aggr": "acsac"
+    },
+    {
+      "name": "Annual International Conference on the Theory and Application of Cryptology and Information Security",
+      "abbr": "ASIACRYPT",
+      "level": "B",
+      "norm": "annual international conference on the theory and application of cryptology and information security",
+      "norm_aggr": "theory application cryptology information security",
+      "abbr_norm": "asiacrypt",
+      "abbr_norm_aggr": "asiacrypt"
+    },
+    {
+      "name": "European Symposium on Research in Computer Security",
+      "abbr": "ESORICS",
+      "level": "B",
+      "norm": "european symposium on research in computer security",
+      "norm_aggr": "european research in computer security",
+      "abbr_norm": "esorics",
+      "abbr_norm_aggr": "esorics"
+    },
+    {
+      "name": "Fast Software Encryption",
+      "abbr": "FSE",
+      "level": "B",
+      "norm": "fast software encryption",
+      "norm_aggr": "fast software encryption",
+      "abbr_norm": "fse",
+      "abbr_norm_aggr": "fse"
+    },
+    {
+      "name": "IEEE Computer Security Foundations Workshop",
+      "abbr": "CSFW",
+      "level": "B",
+      "norm": "ieee computer security foundations workshop",
+      "norm_aggr": "ieee computer security foundations",
+      "abbr_norm": "csfw",
+      "abbr_norm_aggr": "csfw"
+    },
+    {
+      "name": "IEEE International Symposium on Reliable Distributed Systems",
+      "abbr": "SRDS",
+      "level": "B",
+      "norm": "ieee international symposium on reliable distributed systems",
+      "norm_aggr": "ieee reliable distributed systems",
+      "abbr_norm": "srds",
+      "abbr_norm_aggr": "srds"
+    },
+    {
+      "name": "International Conference on Cryptographic Hardware and Embedded Systems",
+      "abbr": "CHES",
+      "level": "B",
+      "norm": "international conference on cryptographic hardware and embedded systems",
+      "norm_aggr": "cryptographic hardware embedded systems",
+      "abbr_norm": "ches",
+      "abbr_norm_aggr": "ches"
+    },
+    {
+      "name": "International Conference on Dependable Systems and IEEE/IFIP Networks",
+      "abbr": "DSN",
+      "level": "B",
+      "norm": "international conference on dependable systems and ieee ifip networks",
+      "norm_aggr": "dependable systems ieee ifip networks",
+      "abbr_norm": "dsn",
+      "abbr_norm_aggr": "dsn"
+    },
+    {
+      "name": "International Symposium on Recent Advances in Intrusion Detection",
+      "abbr": "RAID",
+      "level": "B",
+      "norm": "international symposium on recent advances in intrusion detection",
+      "norm_aggr": "recent advances in intrusion detection",
+      "abbr_norm": "raid",
+      "abbr_norm_aggr": "raid"
+    },
+    {
+      "name": "International Workshop on Practice and Theory in Public Key Cryptography",
+      "abbr": "PKC",
+      "level": "B",
+      "norm": "international workshop on practice and theory in public key cryptography",
+      "norm_aggr": "practice theory in public key cryptography",
+      "abbr_norm": "pkc",
+      "abbr_norm_aggr": "pkc"
+    },
+    {
+      "name": "ACM Conference on Security and Privacy in Wireless and Mobile Networks",
+      "abbr": "WiSec",
+      "level": "C",
+      "norm": "acm conference on security and privacy in wireless and mobile networks",
+      "norm_aggr": "acm security privacy in wireless mobile networks",
+      "abbr_norm": "wisec",
+      "abbr_norm_aggr": "wisec"
+    },
+    {
+      "name": "ACM Symposium on Access Control Models and Technologies",
+      "abbr": "SACMAT",
+      "level": "C",
+      "norm": "acm symposium on access control models and technologies",
+      "norm_aggr": "acm access control models technologies",
+      "abbr_norm": "sacmat",
+      "abbr_norm_aggr": "sacmat"
+    },
+    {
+      "name": "ACM Workshop on Digital Rights Management",
+      "abbr": "DRM",
+      "level": "C",
+      "norm": "acm workshop on digital rights management",
+      "norm_aggr": "acm digital rights management",
+      "abbr_norm": "drm",
+      "abbr_norm_aggr": "drm"
+    },
+    {
+      "name": "ACM Workshop on Information Hiding and Multimedia Security",
+      "abbr": "IH&MMSec",
+      "level": "C",
+      "norm": "acm workshop on information hiding and multimedia security",
+      "norm_aggr": "acm information hiding multimedia security",
+      "abbr_norm": "ih and mmsec",
+      "abbr_norm_aggr": "ih mmsec"
+    },
+    {
+      "name": "International Conference on Applied Cryptography and Network Security",
+      "abbr": "ACNS",
+      "level": "C",
+      "norm": "international conference on applied cryptography and network security",
+      "norm_aggr": "applied cryptography network security",
+      "abbr_norm": "acns",
+      "abbr_norm_aggr": "acns"
+    },
+    {
+      "name": "ACM Asia Conference on Computer and Communications Security",
+      "abbr": "AsiaCCS",
+      "level": "C",
+      "norm": "acm asia conference on computer and communications security",
+      "norm_aggr": "acm asia computer communications security",
+      "abbr_norm": "asiaccs",
+      "abbr_norm_aggr": "asiaccs"
+    },
+    {
+      "name": "Australasia Conference on Information Security and Privacy",
+      "abbr": "ACISP",
+      "level": "C",
+      "norm": "australasia conference on information security and privacy",
+      "norm_aggr": "australasia information security privacy",
+      "abbr_norm": "acisp",
+      "abbr_norm_aggr": "acisp"
+    },
+    {
+      "name": "The Cryptographer's Track at RSA Conference",
+      "abbr": "CT-RSA",
+      "level": "C",
+      "norm": "the cryptographer s track at rsa conference",
+      "norm_aggr": "cryptographer s track at rsa",
+      "abbr_norm": "ct rsa",
+      "abbr_norm_aggr": "ct rsa"
+    },
+    {
+      "name": "Conference on Detection of Intrusions and Malware & Vulnerability Assessment",
+      "abbr": "DIMVA",
+      "level": "C",
+      "norm": "conference on detection of intrusions and malware and vulnerability assessment",
+      "norm_aggr": "detection intrusions malware vulnerability assessment",
+      "abbr_norm": "dimva",
+      "abbr_norm_aggr": "dimva"
+    },
+    {
+      "name": "Digital Forensic Research Workshop",
+      "abbr": "DFRWS",
+      "level": "C",
+      "norm": "digital forensic research workshop",
+      "norm_aggr": "digital forensic research",
+      "abbr_norm": "dfrws",
+      "abbr_norm_aggr": "dfrws"
+    },
+    {
+      "name": "Financial Cryptography and Data Security",
+      "abbr": "FC",
+      "level": "C",
+      "norm": "financial cryptography and data security",
+      "norm_aggr": "financial cryptography data security",
+      "abbr_norm": "fc",
+      "abbr_norm_aggr": "fc"
+    },
+    {
+      "name": "IEEE International Conference on Trust, Security and Privacy in Computing and Communications",
+      "abbr": "TrustCom",
+      "level": "C",
+      "norm": "ieee international conference on trust security and privacy in computing and communications",
+      "norm_aggr": "ieee trust security privacy in computing communications",
+      "abbr_norm": "trustcom",
+      "abbr_norm_aggr": "trustcom"
+    },
+    {
+      "name": "IFIP International Information Security Conference",
+      "abbr": "SEC",
+      "level": "C",
+      "norm": "ifip international information security conference",
+      "norm_aggr": "ifip information security",
+      "abbr_norm": "sec",
+      "abbr_norm_aggr": "sec"
+    },
+    {
+      "name": "IFIP Working Group 11.9 International Conference on Digital Forensics 9/index.html",
+      "abbr": "IFIP WG 11.9",
+      "level": "C",
+      "norm": "ifip working group 11 9 international conference on digital forensics 9 index html",
+      "norm_aggr": "ifip working group 11 9 digital forensics 9 index html",
+      "abbr_norm": "ifip wg 11 9",
+      "abbr_norm_aggr": "ifip wg 11 9"
+    },
+    {
+      "name": "Information Security Conference",
+      "abbr": "ISC",
+      "level": "C",
+      "norm": "information security conference",
+      "norm_aggr": "information security",
+      "abbr_norm": "isc",
+      "abbr_norm_aggr": "isc"
+    },
+    {
+      "name": "International Conference on Digital Forensics & Cyber Crime",
+      "abbr": "ICDF2C",
+      "level": "C",
+      "norm": "international conference on digital forensics and cyber crime",
+      "norm_aggr": "digital forensics cyber crime",
+      "abbr_norm": "icdf2c",
+      "abbr_norm_aggr": "icdf2c"
+    },
+    {
+      "name": "International Conference on Information and Communications Security",
+      "abbr": "ICICS",
+      "level": "C",
+      "norm": "international conference on information and communications security",
+      "norm_aggr": "information communications security",
+      "abbr_norm": "icics",
+      "abbr_norm_aggr": "icics"
+    },
+    {
+      "name": "International Conference on Security and Privacy in Communication Networks trier.de/db/conf/securecomm/",
+      "abbr": "SecureComm",
+      "level": "C",
+      "norm": "international conference on security and privacy in communication networks trier de db conf securecomm",
+      "norm_aggr": "security privacy in communication networks trier de db securecomm",
+      "abbr_norm": "securecomm",
+      "abbr_norm_aggr": "securecomm"
+    },
+    {
+      "name": "New Security Paradigms Workshop",
+      "abbr": "NSPW",
+      "level": "C",
+      "norm": "new security paradigms workshop",
+      "norm_aggr": "new security paradigms",
+      "abbr_norm": "nspw",
+      "abbr_norm_aggr": "nspw"
+    },
+    {
+      "name": "Passive and Active Measurement Conference",
+      "abbr": "PAM",
+      "level": "C",
+      "norm": "passive and active measurement conference",
+      "norm_aggr": "passive active measurement",
+      "abbr_norm": "pam",
+      "abbr_norm_aggr": "pam"
+    },
+    {
+      "name": "Privacy Enhancing Technologies Symposium",
+      "abbr": "PETS",
+      "level": "C",
+      "norm": "privacy enhancing technologies symposium",
+      "norm_aggr": "privacy enhancing technologies",
+      "abbr_norm": "pets",
+      "abbr_norm_aggr": "pets"
+    },
+    {
+      "name": "Selected Areas in Cryptography",
+      "abbr": "SAC",
+      "level": "C",
+      "norm": "selected areas in cryptography",
+      "norm_aggr": "selected areas in cryptography",
+      "abbr_norm": "sac",
+      "abbr_norm_aggr": "sac"
+    },
+    {
+      "name": "Symposium On Usable Privacy and Security USENIX",
+      "abbr": "SOUPS",
+      "level": "C",
+      "norm": "symposium on usable privacy and security usenix",
+      "norm_aggr": "usable privacy security usenix",
+      "abbr_norm": "soups",
+      "abbr_norm_aggr": "soups"
+    },
+    {
+      "name": "USENIX *http://www.usenix.org/events/",
+      "abbr": "HotSec",
+      "level": "C",
+      "norm": "usenix http www usenix org events",
+      "norm_aggr": "usenix http www usenix org events",
+      "abbr_norm": "hotsec",
+      "abbr_norm_aggr": "hotsec"
+    },
+    {
+      "name": "IEEE European Symposium on Security and Privacy html",
+      "abbr": "EuroS&P",
+      "level": "C",
+      "norm": "ieee european symposium on security and privacy html",
+      "norm_aggr": "ieee european security privacy html",
+      "abbr_norm": "euros and p",
+      "abbr_norm_aggr": "euros p"
+    },
+    {
+      "name": "International Conference on Information Security and Cryptology ml",
+      "abbr": "Inscrypt",
+      "level": "C",
+      "norm": "international conference on information security and cryptology ml",
+      "norm_aggr": "information security cryptology ml",
+      "abbr_norm": "inscrypt",
+      "abbr_norm_aggr": "inscrypt"
+    },
+    {
+      "name": "ACM Transactions on Programming Languages and Systems",
+      "abbr": "TOPLAS",
+      "level": "A",
+      "norm": "acm transactions on programming languages and systems",
+      "norm_aggr": "acm programming languages systems",
+      "abbr_norm": "toplas",
+      "abbr_norm_aggr": "toplas"
+    },
+    {
+      "name": "ACM Transactions on Software Engineering and Methodology",
+      "abbr": "TOSEM",
+      "level": "A",
+      "norm": "acm transactions on software engineering and methodology",
+      "norm_aggr": "acm software engineering methodology",
+      "abbr_norm": "tosem",
+      "abbr_norm_aggr": "tosem"
+    },
+    {
+      "name": "IEEE Transactions on Software Engineering",
+      "abbr": "TSE",
+      "level": "A",
+      "norm": "ieee transactions on software engineering",
+      "norm_aggr": "ieee software engineering",
+      "abbr_norm": "tse",
+      "abbr_norm_aggr": "tse"
+    },
+    {
+      "name": "Automated Software Engineering",
+      "abbr": "ASE",
+      "level": "B",
+      "norm": "automated software engineering",
+      "norm_aggr": "automated software engineering",
+      "abbr_norm": "ase",
+      "abbr_norm_aggr": "ase"
+    },
+    {
+      "name": "Empirical Software Engineering",
+      "abbr": "ESE",
+      "level": "B",
+      "norm": "empirical software engineering",
+      "norm_aggr": "empirical software engineering",
+      "abbr_norm": "ese",
+      "abbr_norm_aggr": "ese"
+    },
+    {
+      "name": "IET Software IET",
+      "abbr": "IETS",
+      "level": "B",
+      "norm": "iet software iet",
+      "norm_aggr": "iet software iet",
+      "abbr_norm": "iets",
+      "abbr_norm_aggr": "iets"
+    },
+    {
+      "name": "Information and Software Technology",
+      "abbr": "IST",
+      "level": "B",
+      "norm": "information and software technology",
+      "norm_aggr": "information software technology",
+      "abbr_norm": "ist",
+      "abbr_norm_aggr": "ist"
+    },
+    {
+      "name": "Journal of Functional Programming University Press",
+      "abbr": "JFP",
+      "level": "B",
+      "norm": "journal of functional programming university press",
+      "norm_aggr": "functional programming university press",
+      "abbr_norm": "jfp",
+      "abbr_norm_aggr": "jfp"
+    },
+    {
+      "name": "Journal of Systems and Software",
+      "abbr": "JSS",
+      "level": "B",
+      "norm": "journal of systems and software",
+      "norm_aggr": "systems software",
+      "abbr_norm": "jss",
+      "abbr_norm_aggr": "jss"
+    },
+    {
+      "name": "Requirements Engineering",
+      "abbr": "RE",
+      "level": "B",
+      "norm": "requirements engineering",
+      "norm_aggr": "requirements engineering",
+      "abbr_norm": "re",
+      "abbr_norm_aggr": "re"
+    },
+    {
+      "name": "Science of Computer Programming",
+      "abbr": "SCP",
+      "level": "B",
+      "norm": "science of computer programming",
+      "norm_aggr": "science computer programming",
+      "abbr_norm": "scp",
+      "abbr_norm_aggr": "scp"
+    },
+    {
+      "name": "Software and Systems Modeling",
+      "abbr": "SoSyM",
+      "level": "B",
+      "norm": "software and systems modeling",
+      "norm_aggr": "software systems modeling",
+      "abbr_norm": "sosym",
+      "abbr_norm_aggr": "sosym"
+    },
+    {
+      "name": "Software Testing, Verification and Reliability",
+      "abbr": "STVR",
+      "level": "B",
+      "norm": "software testing verification and reliability",
+      "norm_aggr": "software testing verification reliability",
+      "abbr_norm": "stvr",
+      "abbr_norm_aggr": "stvr"
+    },
+    {
+      "name": "Computer Languages, Systems and Structures",
+      "abbr": "CL",
+      "level": "C",
+      "norm": "computer languages systems and structures",
+      "norm_aggr": "computer languages systems structures",
+      "abbr_norm": "cl",
+      "abbr_norm_aggr": "cl"
+    },
+    {
+      "name": "International Journal of Software Engineering and Knowledge Engineering",
+      "abbr": "IJSEKE",
+      "level": "C",
+      "norm": "international journal of software engineering and knowledge engineering",
+      "norm_aggr": "software engineering knowledge engineering",
+      "abbr_norm": "ijseke",
+      "abbr_norm_aggr": "ijseke"
+    },
+    {
+      "name": "International Journal of Software Tools for Technology Transfer",
+      "abbr": "STTT",
+      "level": "C",
+      "norm": "international journal of software tools for technology transfer",
+      "norm_aggr": "software tools technology transfer",
+      "abbr_norm": "sttt",
+      "abbr_norm_aggr": "sttt"
+    },
+    {
+      "name": "Journal of Logical and Algebraic Methods in Programming",
+      "abbr": "JLAMP",
+      "level": "C",
+      "norm": "journal of logical and algebraic methods in programming",
+      "norm_aggr": "logical algebraic methods in programming",
+      "abbr_norm": "jlamp",
+      "abbr_norm_aggr": "jlamp"
+    },
+    {
+      "name": "Journal of Web Engineering Rinton Press",
+      "abbr": "JWE",
+      "level": "C",
+      "norm": "journal of web engineering rinton press",
+      "norm_aggr": "web engineering rinton press",
+      "abbr_norm": "jwe",
+      "abbr_norm_aggr": "jwe"
+    },
+    {
+      "name": "Service Oriented Computing and Applications",
+      "abbr": "SOCA",
+      "level": "C",
+      "norm": "service oriented computing and applications",
+      "norm_aggr": "service oriented computing applications",
+      "abbr_norm": "soca",
+      "abbr_norm_aggr": "soca"
+    },
+    {
+      "name": "Software Quality Journal",
+      "abbr": "SQJ",
+      "level": "C",
+      "norm": "software quality journal",
+      "norm_aggr": "software quality",
+      "abbr_norm": "sqj",
+      "abbr_norm_aggr": "sqj"
+    },
+    {
+      "name": "Theory and Practice of Logic Programming Cambridge University Press https://dblp.org/db/journals/pacmpl/index.htm",
+      "abbr": "TPLP",
+      "level": "C",
+      "norm": "theory and practice of logic programming cambridge university press https dblp org db journals pacmpl index htm",
+      "norm_aggr": "theory practice logic programming cambridge university press https dblp org db journals pacmpl index htm",
+      "abbr_norm": "tplp",
+      "abbr_norm_aggr": "tplp"
+    },
+    {
+      "name": "Proceedings of the ACM on Programming Languages l",
+      "abbr": "PACM PL",
+      "level": "C",
+      "norm": "proceedings of the acm on programming languages l",
+      "norm_aggr": "acm programming languages l",
+      "abbr_norm": "pacm pl",
+      "abbr_norm_aggr": "pacm pl"
+    },
+    {
+      "name": "ACM SIGPLAN Conference on Programming Language Design and Implementation",
+      "abbr": "PLDI",
+      "level": "A",
+      "norm": "acm sigplan conference on programming language design and implementation",
+      "norm_aggr": "acm sigplan programming language design implementation",
+      "abbr_norm": "pldi",
+      "abbr_norm_aggr": "pldi"
+    },
+    {
+      "name": "ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages",
+      "abbr": "POPL",
+      "level": "A",
+      "norm": "acm sigplan sigact symposium on principles of programming languages",
+      "norm_aggr": "acm sigplan sigact principles programming languages",
+      "abbr_norm": "popl",
+      "abbr_norm_aggr": "popl"
+    },
+    {
+      "name": "ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering",
+      "abbr": "FSE/ESEC",
+      "level": "A",
+      "norm": "acm joint european software engineering conference and symposium on the foundations of software engineering",
+      "norm_aggr": "acm joint european software engineering foundations software engineering",
+      "abbr_norm": "fse esec",
+      "abbr_norm_aggr": "fse esec"
+    },
+    {
+      "name": "ACM Symposium on Operating Systems Principles",
+      "abbr": "SOSP",
+      "level": "A",
+      "norm": "acm symposium on operating systems principles",
+      "norm_aggr": "acm operating systems principles",
+      "abbr_norm": "sosp",
+      "abbr_norm_aggr": "sosp"
+    },
+    {
+      "name": "Conference on Object-Oriented Programming Systems, Languages, and Applications",
+      "abbr": "OOPSLA",
+      "level": "A",
+      "norm": "conference on object oriented programming systems languages and applications",
+      "norm_aggr": "object oriented programming systems languages applications",
+      "abbr_norm": "oopsla",
+      "abbr_norm_aggr": "oopsla"
+    },
+    {
+      "name": "International Conference on Automated Software Engineering IEEE/ACM",
+      "abbr": "ASE",
+      "level": "A",
+      "norm": "international conference on automated software engineering ieee acm",
+      "norm_aggr": "automated software engineering ieee acm",
+      "abbr_norm": "ase",
+      "abbr_norm_aggr": "ase"
+    },
+    {
+      "name": "International Conference on Software Engineering ACM/IEEE",
+      "abbr": "ICSE",
+      "level": "A",
+      "norm": "international conference on software engineering acm ieee",
+      "norm_aggr": "software engineering acm ieee",
+      "abbr_norm": "icse",
+      "abbr_norm_aggr": "icse"
+    },
+    {
+      "name": "International Symposium on Software Testing and Analysis",
+      "abbr": "ISSTA",
+      "level": "A",
+      "norm": "international symposium on software testing and analysis",
+      "norm_aggr": "software testing analysis",
+      "abbr_norm": "issta",
+      "abbr_norm_aggr": "issta"
+    },
+    {
+      "name": "USENIX Symposium on Operating Systems Design and Implementation USENIX",
+      "abbr": "OSDI",
+      "level": "A",
+      "norm": "usenix symposium on operating systems design and implementation usenix",
+      "norm_aggr": "usenix operating systems design implementation usenix",
+      "abbr_norm": "osdi",
+      "abbr_norm_aggr": "osdi"
+    },
+    {
+      "name": "European Conference on Object-Oriented Programming AITO",
+      "abbr": "ECOOP",
+      "level": "B",
+      "norm": "european conference on object oriented programming aito",
+      "norm_aggr": "european object oriented programming aito",
+      "abbr_norm": "ecoop",
+      "abbr_norm_aggr": "ecoop"
+    },
+    {
+      "name": "European Joint Conferences on Theory and Practice of Software",
+      "abbr": "ETAPS",
+      "level": "B",
+      "norm": "european joint conferences on theory and practice of software",
+      "norm_aggr": "european joint conferences theory practice software",
+      "abbr_norm": "etaps",
+      "abbr_norm_aggr": "etaps"
+    },
+    {
+      "name": "IEEE International Conference on Program Comprehension",
+      "abbr": "ICPC",
+      "level": "B",
+      "norm": "ieee international conference on program comprehension",
+      "norm_aggr": "ieee program comprehension",
+      "abbr_norm": "icpc",
+      "abbr_norm_aggr": "icpc"
+    },
+    {
+      "name": "IEEE International Requirements Engineering Conference",
+      "abbr": "RE",
+      "level": "B",
+      "norm": "ieee international requirements engineering conference",
+      "norm_aggr": "ieee requirements engineering",
+      "abbr_norm": "re",
+      "abbr_norm_aggr": "re"
+    },
+    {
+      "name": "International Conference on Advanced Information Systems Engineering",
+      "abbr": "CAiSE",
+      "level": "B",
+      "norm": "international conference on advanced information systems engineering",
+      "norm_aggr": "advanced information systems engineering",
+      "abbr_norm": "caise",
+      "abbr_norm_aggr": "caise"
+    },
+    {
+      "name": "ACM SIGPLAN International Conference on Function Programming",
+      "abbr": "ICFP",
+      "level": "B",
+      "norm": "acm sigplan international conference on function programming",
+      "norm_aggr": "acm sigplan function programming",
+      "abbr_norm": "icfp",
+      "abbr_norm_aggr": "icfp"
+    },
+    {
+      "name": "ACM SIGPLAN/SIGBED International Conference on Languages, Compilers and Tools for Embedded Systems",
+      "abbr": "LCTES",
+      "level": "B",
+      "norm": "acm sigplan sigbed international conference on languages compilers and tools for embedded systems",
+      "norm_aggr": "acm sigplan sigbed languages compilers tools embedded systems",
+      "abbr_norm": "lctes",
+      "abbr_norm_aggr": "lctes"
+    },
+    {
+      "name": "ACM/IEEE International Conference on Model Driven ACM, IEEE EngineeringLanguages and Systems",
+      "abbr": "MoDELS",
+      "level": "B",
+      "norm": "acm ieee international conference on model driven acm ieee engineeringlanguages and systems",
+      "norm_aggr": "acm ieee model driven acm ieee engineeringlanguages systems",
+      "abbr_norm": "models",
+      "abbr_norm_aggr": "models"
+    },
+    {
+      "name": "International Conference on Principles and Practice of Constraint Programming",
+      "abbr": "CP",
+      "level": "B",
+      "norm": "international conference on principles and practice of constraint programming",
+      "norm_aggr": "principles practice constraint programming",
+      "abbr_norm": "cp",
+      "abbr_norm_aggr": "cp"
+    },
+    {
+      "name": "International Conference on Service Oriented Computing",
+      "abbr": "ICSOC",
+      "level": "B",
+      "norm": "international conference on service oriented computing",
+      "norm_aggr": "service oriented computing",
+      "abbr_norm": "icsoc",
+      "abbr_norm_aggr": "icsoc"
+    },
+    {
+      "name": "IEEE International Conference on Software Analysis, Evolution, and Reengineering International Conference on Software Maintenance and",
+      "abbr": "SANER",
+      "level": "B",
+      "norm": "ieee international conference on software analysis evolution and reengineering international conference on software maintenance and",
+      "norm_aggr": "ieee software analysis evolution reengineering software maintenance",
+      "abbr_norm": "saner",
+      "abbr_norm_aggr": "saner"
+    },
+    {
+      "name": "Evolution International Conference on Verification, Model Checking",
+      "abbr": "ICSME",
+      "level": "B",
+      "norm": "evolution international conference on verification model checking",
+      "norm_aggr": "evolution verification model checking",
+      "abbr_norm": "icsme",
+      "abbr_norm_aggr": "icsme"
+    },
+    {
+      "name": "and Abstract Interpretation IEEE International Conference on Web Services",
+      "abbr": "VMCAI",
+      "level": "B",
+      "norm": "and abstract interpretation ieee international conference on web services",
+      "norm_aggr": "abstract interpretation ieee web services",
+      "abbr_norm": "vmcai",
+      "abbr_norm_aggr": "vmcai"
+    },
+    {
+      "name": "International Middleware Conference ACM/IFIP/ USENIX",
+      "abbr": "Middleware",
+      "level": "B",
+      "norm": "international middleware conference acm ifip usenix",
+      "norm_aggr": "middleware acm ifip usenix",
+      "abbr_norm": "middleware",
+      "abbr_norm_aggr": "middleware"
+    },
+    {
+      "name": "International Static Analysis Symposium",
+      "abbr": "SAS",
+      "level": "B",
+      "norm": "international static analysis symposium",
+      "norm_aggr": "static analysis",
+      "abbr_norm": "sas",
+      "abbr_norm_aggr": "sas"
+    },
+    {
+      "name": "International Symposium on Empirical Software ACM/IEEE Engineering and Measurement",
+      "abbr": "ESEM",
+      "level": "B",
+      "norm": "international symposium on empirical software acm ieee engineering and measurement",
+      "norm_aggr": "empirical software acm ieee engineering measurement",
+      "abbr_norm": "esem",
+      "abbr_norm_aggr": "esem"
+    },
+    {
+      "name": "IEEE International Symposium on Software Reliability Engineering",
+      "abbr": "ISSRE",
+      "level": "B",
+      "norm": "ieee international symposium on software reliability engineering",
+      "norm_aggr": "ieee software reliability engineering",
+      "abbr_norm": "issre",
+      "abbr_norm_aggr": "issre"
+    },
+    {
+      "name": "ACM SIGPLAN Workshop on Partial Evaluation and Program",
+      "abbr": "",
+      "level": "C",
+      "norm": "acm sigplan workshop on partial evaluation and program",
+      "norm_aggr": "acm sigplan partial evaluation program"
+    },
+    {
+      "name": "Manipulation ACMSIGPLAN-SIGSOFT Workshop on Program Analysis",
+      "abbr": "PEPM",
+      "level": "C",
+      "norm": "manipulation acmsigplan sigsoft workshop on program analysis",
+      "norm_aggr": "manipulation acmsigplan sigsoft program analysis",
+      "abbr_norm": "pepm",
+      "abbr_norm_aggr": "pepm"
+    },
+    {
+      "name": "for Software Tools and Engineering",
+      "abbr": "PASTE",
+      "level": "C",
+      "norm": "for software tools and engineering",
+      "norm_aggr": "software tools engineering",
+      "abbr_norm": "paste",
+      "abbr_norm_aggr": "paste"
+    },
+    {
+      "name": "Asian Symposium on Programming Languages and Systems",
+      "abbr": "APLAS",
+      "level": "C",
+      "norm": "asian symposium on programming languages and systems",
+      "norm_aggr": "asian programming languages systems",
+      "abbr_norm": "aplas",
+      "abbr_norm_aggr": "aplas"
+    },
+    {
+      "name": "Asia-Pacific Software Engineering Conference",
+      "abbr": "APSEC",
+      "level": "C",
+      "norm": "asia pacific software engineering conference",
+      "norm_aggr": "asia pacific software engineering",
+      "abbr_norm": "apsec",
+      "abbr_norm_aggr": "apsec"
+    },
+    {
+      "name": "International Conference on Evaluation and Assessment in Software Engineering",
+      "abbr": "EASE",
+      "level": "C",
+      "norm": "international conference on evaluation and assessment in software engineering",
+      "norm_aggr": "evaluation assessment in software engineering",
+      "abbr_norm": "ease",
+      "abbr_norm_aggr": "ease"
+    },
+    {
+      "name": "International Conference on Engineering of Complex Computer Systems",
+      "abbr": "ICECCS",
+      "level": "C",
+      "norm": "international conference on engineering of complex computer systems",
+      "norm_aggr": "engineering complex computer systems",
+      "abbr_norm": "iceccs",
+      "abbr_norm_aggr": "iceccs"
+    },
+    {
+      "name": "IEEE International Conference on Software Testing, Verification and Validation",
+      "abbr": "ICST",
+      "level": "C",
+      "norm": "ieee international conference on software testing verification and validation",
+      "norm_aggr": "ieee software testing verification validation",
+      "abbr_norm": "icst",
+      "abbr_norm_aggr": "icst"
+    },
+    {
+      "name": "IEEE International Symposium on Performance Analysis of Systems and Software",
+      "abbr": "ISPASS",
+      "level": "C",
+      "norm": "ieee international symposium on performance analysis of systems and software",
+      "norm_aggr": "ieee performance analysis systems software",
+      "abbr_norm": "ispass",
+      "abbr_norm_aggr": "ispass"
+    },
+    {
+      "name": "IEEE International Working Conference on Source Code Analysis and Manipulation",
+      "abbr": "SCAM",
+      "level": "C",
+      "norm": "ieee international working conference on source code analysis and manipulation",
+      "norm_aggr": "ieee working source code analysis manipulation",
+      "abbr_norm": "scam",
+      "abbr_norm_aggr": "scam"
+    },
+    {
+      "name": "International Computer Software and Applications Conference",
+      "abbr": "COMPSAC",
+      "level": "C",
+      "norm": "international computer software and applications conference",
+      "norm_aggr": "computer software applications",
+      "abbr_norm": "compsac",
+      "abbr_norm_aggr": "compsac"
+    },
+    {
+      "name": "International Conference on Formal Engineering Methods",
+      "abbr": "ICFEM",
+      "level": "C",
+      "norm": "international conference on formal engineering methods",
+      "norm_aggr": "formal engineering methods",
+      "abbr_norm": "icfem",
+      "abbr_norm_aggr": "icfem"
+    },
+    {
+      "name": "International Conference on Objects, Models, Components, Patterns（2019年停办）",
+      "abbr": "TOOLS",
+      "level": "C",
+      "norm": "international conference on objects models components patterns 2019",
+      "norm_aggr": "objects models components patterns 2019",
+      "abbr_norm": "tools",
+      "abbr_norm_aggr": "tools"
+    },
+    {
+      "name": "IEEE International Conference on Services Computing",
+      "abbr": "SCC",
+      "level": "C",
+      "norm": "ieee international conference on services computing",
+      "norm_aggr": "ieee services computing",
+      "abbr_norm": "scc",
+      "abbr_norm_aggr": "scc"
+    },
+    {
+      "name": "International Conference on Software and System Process",
+      "abbr": "ICSSP",
+      "level": "C",
+      "norm": "international conference on software and system process",
+      "norm_aggr": "software system process",
+      "abbr_norm": "icssp",
+      "abbr_norm_aggr": "icssp"
+    },
+    {
+      "name": "International Conference on Software Engineering and KSI Knowledge Engineering",
+      "abbr": "SEKE",
+      "level": "C",
+      "norm": "international conference on software engineering and ksi knowledge engineering",
+      "norm_aggr": "software engineering ksi knowledge engineering",
+      "abbr_norm": "seke",
+      "abbr_norm_aggr": "seke"
+    },
+    {
+      "name": "International Conference on Software Quality, Reliability and Security",
+      "abbr": "QRS",
+      "level": "C",
+      "norm": "international conference on software quality reliability and security",
+      "norm_aggr": "software quality reliability security",
+      "abbr_norm": "qrs",
+      "abbr_norm_aggr": "qrs"
+    },
+    {
+      "name": "International Conference on Software Reuse",
+      "abbr": "ICSR",
+      "level": "C",
+      "norm": "international conference on software reuse",
+      "norm_aggr": "software reuse",
+      "abbr_norm": "icsr",
+      "abbr_norm_aggr": "icsr"
+    },
+    {
+      "name": "International Conference on Web Engineering",
+      "abbr": "ICWE",
+      "level": "C",
+      "norm": "international conference on web engineering",
+      "norm_aggr": "web engineering",
+      "abbr_norm": "icwe",
+      "abbr_norm_aggr": "icwe"
+    },
+    {
+      "name": "International Symposium on Model Checking of Software",
+      "abbr": "SPIN",
+      "level": "C",
+      "norm": "international symposium on model checking of software",
+      "norm_aggr": "model checking software",
+      "abbr_norm": "spin",
+      "abbr_norm_aggr": "spin"
+    },
+    {
+      "name": "International Symposium on Automated Technology for Verification and Analysis",
+      "abbr": "ATVA",
+      "level": "C",
+      "norm": "international symposium on automated technology for verification and analysis",
+      "norm_aggr": "automated technology verification analysis",
+      "abbr_norm": "atva",
+      "abbr_norm_aggr": "atva"
+    },
+    {
+      "name": "International Symposium on Logic-based Program Synthesis and Transformation",
+      "abbr": "LOPSTR",
+      "level": "C",
+      "norm": "international symposium on logic based program synthesis and transformation",
+      "norm_aggr": "logic based program synthesis transformation",
+      "abbr_norm": "lopstr",
+      "abbr_norm_aggr": "lopstr"
+    },
+    {
+      "name": "Theoretical Aspects of Software Engineering Conference",
+      "abbr": "TASE",
+      "level": "C",
+      "norm": "theoretical aspects of software engineering conference",
+      "norm_aggr": "theoretical aspects software engineering",
+      "abbr_norm": "tase",
+      "abbr_norm_aggr": "tase"
+    },
+    {
+      "name": "Mining Software Repositories IEEE/ACM",
+      "abbr": "MSR",
+      "level": "C",
+      "norm": "mining software repositories ieee acm",
+      "norm_aggr": "mining software repositories ieee acm",
+      "abbr_norm": "msr",
+      "abbr_norm_aggr": "msr"
+    },
+    {
+      "name": "Requirements Engineering: Foundation for Software Quality",
+      "abbr": "REFSQ",
+      "level": "C",
+      "norm": "requirements engineering foundation for software quality",
+      "norm_aggr": "requirements engineering foundation software quality",
+      "abbr_norm": "refsq",
+      "abbr_norm_aggr": "refsq"
+    },
+    {
+      "name": "Working IEEE/IFIP Conference on Software Architecture",
+      "abbr": "WICSA",
+      "level": "C",
+      "norm": "working ieee ifip conference on software architecture",
+      "norm_aggr": "working ieee ifip software architecture",
+      "abbr_norm": "wicsa",
+      "abbr_norm_aggr": "wicsa"
+    },
+    {
+      "name": "Asia-Pacific Symposium on Internetware html",
+      "abbr": "Internetware",
+      "level": "C",
+      "norm": "asia pacific symposium on internetware html",
+      "norm_aggr": "asia pacific internetware html",
+      "abbr_norm": "internetware",
+      "abbr_norm_aggr": "internetware"
+    },
+    {
+      "name": "International Conference on Runtime Verification",
+      "abbr": "RV",
+      "level": "C",
+      "norm": "international conference on runtime verification",
+      "norm_aggr": "runtime verification",
+      "abbr_norm": "rv",
+      "abbr_norm_aggr": "rv"
+    },
+    {
+      "name": "ACM Transactions on Database Systems",
+      "abbr": "TODS",
+      "level": "A",
+      "norm": "acm transactions on database systems",
+      "norm_aggr": "acm database systems",
+      "abbr_norm": "tods",
+      "abbr_norm_aggr": "tods"
+    },
+    {
+      "name": "ACM Transactions on Information Systems",
+      "abbr": "TOIS",
+      "level": "A",
+      "norm": "acm transactions on information systems",
+      "norm_aggr": "acm information systems",
+      "abbr_norm": "tois",
+      "abbr_norm_aggr": "tois"
+    },
+    {
+      "name": "IEEE Transactions on Knowledge and Data Engineering",
+      "abbr": "TKDE",
+      "level": "A",
+      "norm": "ieee transactions on knowledge and data engineering",
+      "norm_aggr": "ieee knowledge data engineering",
+      "abbr_norm": "tkde",
+      "abbr_norm_aggr": "tkde"
+    },
+    {
+      "name": "ACM Transactions on Knowledge Discovery from Data",
+      "abbr": "TKDD",
+      "level": "B",
+      "norm": "acm transactions on knowledge discovery from data",
+      "norm_aggr": "acm knowledge discovery from data",
+      "abbr_norm": "tkdd",
+      "abbr_norm_aggr": "tkdd"
+    },
+    {
+      "name": "ACM Transactions on the Web",
+      "abbr": "TWEB",
+      "level": "B",
+      "norm": "acm transactions on the web",
+      "norm_aggr": "acm web",
+      "abbr_norm": "tweb",
+      "abbr_norm_aggr": "tweb"
+    },
+    {
+      "name": "Advanced Engineering Informatics",
+      "abbr": "AEI",
+      "level": "B",
+      "norm": "advanced engineering informatics",
+      "norm_aggr": "advanced engineering informatics",
+      "abbr_norm": "aei",
+      "abbr_norm_aggr": "aei"
+    },
+    {
+      "name": "Data & Knowledge Engineering",
+      "abbr": "DKE",
+      "level": "B",
+      "norm": "data and knowledge engineering",
+      "norm_aggr": "data knowledge engineering",
+      "abbr_norm": "dke",
+      "abbr_norm_aggr": "dke"
+    },
+    {
+      "name": "Data Mining and Knowledge Discovery",
+      "abbr": "DMKD",
+      "level": "B",
+      "norm": "data mining and knowledge discovery",
+      "norm_aggr": "data mining knowledge discovery",
+      "abbr_norm": "dmkd",
+      "abbr_norm_aggr": "dmkd"
+    },
+    {
+      "name": "European Journal of Information Systems",
+      "abbr": "EJIS",
+      "level": "B",
+      "norm": "european journal of information systems",
+      "norm_aggr": "european information systems",
+      "abbr_norm": "ejis",
+      "abbr_norm_aggr": "ejis"
+    },
+    {
+      "name": "trier.de/db/journals/geoinformatica/",
+      "abbr": "GeoInformatica",
+      "level": "B",
+      "norm": "trier de db journals geoinformatica",
+      "norm_aggr": "trier de db journals geoinformatica",
+      "abbr_norm": "geoinformatica",
+      "abbr_norm_aggr": "geoinformatica"
+    },
+    {
+      "name": "Information Processing and Management",
+      "abbr": "IPM",
+      "level": "B",
+      "norm": "information processing and management",
+      "norm_aggr": "information processing management",
+      "abbr_norm": "ipm",
+      "abbr_norm_aggr": "ipm"
+    },
+    {
+      "name": "Information Systems",
+      "abbr": "IS",
+      "level": "B",
+      "norm": "information systems",
+      "norm_aggr": "information systems",
+      "abbr_norm": "is",
+      "abbr_norm_aggr": "is"
+    },
+    {
+      "name": "Journal of the Association for Information Science and Technology",
+      "abbr": "JASIST",
+      "level": "B",
+      "norm": "journal of the association for information science and technology",
+      "norm_aggr": "information science technology",
+      "abbr_norm": "jasist",
+      "abbr_norm_aggr": "jasist"
+    },
+    {
+      "name": "Journal of Web Semantics",
+      "abbr": "JWS",
+      "level": "B",
+      "norm": "journal of web semantics",
+      "norm_aggr": "web semantics",
+      "abbr_norm": "jws",
+      "abbr_norm_aggr": "jws"
+    },
+    {
+      "name": "Distributed and Parallel Databases",
+      "abbr": "DPD",
+      "level": "C",
+      "norm": "distributed and parallel databases",
+      "norm_aggr": "distributed parallel databases",
+      "abbr_norm": "dpd",
+      "abbr_norm_aggr": "dpd"
+    },
+    {
+      "name": "Information & Management",
+      "abbr": "I&M",
+      "level": "C",
+      "norm": "information and management",
+      "norm_aggr": "information management",
+      "abbr_norm": "i and m",
+      "abbr_norm_aggr": "i m"
+    },
+    {
+      "name": "Information Processing Letters",
+      "abbr": "IPL",
+      "level": "C",
+      "norm": "information processing letters",
+      "norm_aggr": "information processing",
+      "abbr_norm": "ipl",
+      "abbr_norm_aggr": "ipl"
+    },
+    {
+      "name": "Information Retrieval Journal",
+      "abbr": "IR",
+      "level": "C",
+      "norm": "information retrieval journal",
+      "norm_aggr": "information retrieval",
+      "abbr_norm": "ir",
+      "abbr_norm_aggr": "ir"
+    },
+    {
+      "name": "International Journal of Cooperative Information Systems",
+      "abbr": "IJCIS",
+      "level": "C",
+      "norm": "international journal of cooperative information systems",
+      "norm_aggr": "cooperative information systems",
+      "abbr_norm": "ijcis",
+      "abbr_norm_aggr": "ijcis"
+    },
+    {
+      "name": "International Journal of Geographical Information Taylor & Francis Science",
+      "abbr": "IJGIS",
+      "level": "C",
+      "norm": "international journal of geographical information taylor and francis science",
+      "norm_aggr": "geographical information taylor francis science",
+      "abbr_norm": "ijgis",
+      "abbr_norm_aggr": "ijgis"
+    },
+    {
+      "name": "International Journal of Intelligent Systems",
+      "abbr": "IJIS",
+      "level": "C",
+      "norm": "international journal of intelligent systems",
+      "norm_aggr": "intelligent systems",
+      "abbr_norm": "ijis",
+      "abbr_norm_aggr": "ijis"
+    },
+    {
+      "name": "International Journal of Knowledge Management IGI",
+      "abbr": "IJKM",
+      "level": "C",
+      "norm": "international journal of knowledge management igi",
+      "norm_aggr": "knowledge management igi",
+      "abbr_norm": "ijkm",
+      "abbr_norm_aggr": "ijkm"
+    },
+    {
+      "name": "International Journal on Semantic Web and Information IGI Systems",
+      "abbr": "IJSWIS",
+      "level": "C",
+      "norm": "international journal on semantic web and information igi systems",
+      "norm_aggr": "semantic web information igi systems",
+      "abbr_norm": "ijswis",
+      "abbr_norm_aggr": "ijswis"
+    },
+    {
+      "name": "Journal of Computer Information Systems IACIS",
+      "abbr": "JCIS",
+      "level": "C",
+      "norm": "journal of computer information systems iacis",
+      "norm_aggr": "computer information systems iacis",
+      "abbr_norm": "jcis",
+      "abbr_norm_aggr": "jcis"
+    },
+    {
+      "name": "Journal of Database Management IGI-Global",
+      "abbr": "JDM",
+      "level": "C",
+      "norm": "journal of database management igi global",
+      "norm_aggr": "database management igi global",
+      "abbr_norm": "jdm",
+      "abbr_norm_aggr": "jdm"
+    },
+    {
+      "name": "Journal of Global Information Technology Management Ivy League Publishing",
+      "abbr": "JGITM",
+      "level": "C",
+      "norm": "journal of global information technology management ivy league publishing",
+      "norm_aggr": "global information technology management ivy league publishing",
+      "abbr_norm": "jgitm",
+      "abbr_norm_aggr": "jgitm"
+    },
+    {
+      "name": "Journal of Intelligent Information Systems",
+      "abbr": "JIIS",
+      "level": "C",
+      "norm": "journal of intelligent information systems",
+      "norm_aggr": "intelligent information systems",
+      "abbr_norm": "jiis",
+      "abbr_norm_aggr": "jiis"
+    },
+    {
+      "name": "The Journal of Strategic Information Systems",
+      "abbr": "JSIS",
+      "level": "C",
+      "norm": "the journal of strategic information systems",
+      "norm_aggr": "strategic information systems",
+      "abbr_norm": "jsis",
+      "abbr_norm_aggr": "jsis"
+    },
+    {
+      "name": "Data Science and Engineering CCF",
+      "abbr": "DSE",
+      "level": "C",
+      "norm": "data science and engineering ccf",
+      "norm_aggr": "data science engineering ccf",
+      "abbr_norm": "dse",
+      "abbr_norm_aggr": "dse"
+    },
+    {
+      "name": "ACM SIGMOD Conference",
+      "abbr": "SIGMOD",
+      "level": "A",
+      "norm": "acm sigmod conference",
+      "norm_aggr": "acm sigmod",
+      "abbr_norm": "sigmod",
+      "abbr_norm_aggr": "sigmod"
+    },
+    {
+      "name": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+      "abbr": "SIGKDD",
+      "level": "A",
+      "norm": "acm sigkdd conference on knowledge discovery and data mining",
+      "norm_aggr": "acm sigkdd knowledge discovery data mining",
+      "abbr_norm": "sigkdd",
+      "abbr_norm_aggr": "sigkdd"
+    },
+    {
+      "name": "IEEE International Conference on Data Engineering",
+      "abbr": "ICDE",
+      "level": "A",
+      "norm": "ieee international conference on data engineering",
+      "norm_aggr": "ieee data engineering",
+      "abbr_norm": "icde",
+      "abbr_norm_aggr": "icde"
+    },
+    {
+      "name": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "abbr": "SIGIR",
+      "level": "A",
+      "norm": "international acm sigir conference on research and development in information retrieval",
+      "norm_aggr": "acm sigir research development in information retrieval",
+      "abbr_norm": "sigir",
+      "abbr_norm_aggr": "sigir"
+    },
+    {
+      "name": "ACM International Conference on Information",
+      "abbr": "",
+      "level": "B",
+      "norm": "acm international conference on information",
+      "norm_aggr": "acm information"
+    },
+    {
+      "name": "and Knowledge Management",
+      "abbr": "CIKM",
+      "level": "B",
+      "norm": "and knowledge management",
+      "norm_aggr": "knowledge management",
+      "abbr_norm": "cikm",
+      "abbr_norm_aggr": "cikm"
+    },
+    {
+      "name": "ACM International Conference on Web Search and Data Mining",
+      "abbr": "WSDM",
+      "level": "B",
+      "norm": "acm international conference on web search and data mining",
+      "norm_aggr": "acm web search data mining",
+      "abbr_norm": "wsdm",
+      "abbr_norm_aggr": "wsdm"
+    },
+    {
+      "name": "ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of DatabaseSystems",
+      "abbr": "PODS",
+      "level": "B",
+      "norm": "acm sigmod sigact sigai symposium on principles of databasesystems",
+      "norm_aggr": "acm sigmod sigact sigai principles databasesystems",
+      "abbr_norm": "pods",
+      "abbr_norm_aggr": "pods"
+    },
+    {
+      "name": "International Conference on Database Systems for Advanced Applications European Conference on Machine Learning",
+      "abbr": "DASFAA",
+      "level": "B",
+      "norm": "international conference on database systems for advanced applications european conference on machine learning",
+      "norm_aggr": "database systems advanced applications european machine learning",
+      "abbr_norm": "dasfaa",
+      "abbr_norm_aggr": "dasfaa"
+    },
+    {
+      "name": "and Principles and Practice of Knowledge Discovery in Databases",
+      "abbr": "ECML-PKDD",
+      "level": "B",
+      "norm": "and principles and practice of knowledge discovery in databases",
+      "norm_aggr": "principles practice knowledge discovery in databases",
+      "abbr_norm": "ecml pkdd",
+      "abbr_norm_aggr": "ecml pkdd"
+    },
+    {
+      "name": "IEEE International Semantic Web Conference",
+      "abbr": "ISWC",
+      "level": "B",
+      "norm": "ieee international semantic web conference",
+      "norm_aggr": "ieee semantic web",
+      "abbr_norm": "iswc",
+      "abbr_norm_aggr": "iswc"
+    },
+    {
+      "name": "IEEE International Conference on Data Mining",
+      "abbr": "ICDM",
+      "level": "B",
+      "norm": "ieee international conference on data mining",
+      "norm_aggr": "ieee data mining",
+      "abbr_norm": "icdm",
+      "abbr_norm_aggr": "icdm"
+    },
+    {
+      "name": "International Conference on Database Theory",
+      "abbr": "ICDT",
+      "level": "B",
+      "norm": "international conference on database theory",
+      "norm_aggr": "database theory",
+      "abbr_norm": "icdt",
+      "abbr_norm_aggr": "icdt"
+    },
+    {
+      "name": "International Conference on Extending Database Technology",
+      "abbr": "EDBT",
+      "level": "B",
+      "norm": "international conference on extending database technology",
+      "norm_aggr": "extending database technology",
+      "abbr_norm": "edbt",
+      "abbr_norm_aggr": "edbt"
+    },
+    {
+      "name": "Conference on Innovative Data Online Proceeding Systems Research",
+      "abbr": "CIDR",
+      "level": "B",
+      "norm": "conference on innovative data online proceeding systems research",
+      "norm_aggr": "innovative data online proceeding systems research",
+      "abbr_norm": "cidr",
+      "abbr_norm_aggr": "cidr"
+    },
+    {
+      "name": "SIAM International Conference on Data Mining ACM Conference on Recommender",
+      "abbr": "SDM",
+      "level": "B",
+      "norm": "siam international conference on data mining acm conference on recommender",
+      "norm_aggr": "siam data mining acm recommender",
+      "abbr_norm": "sdm",
+      "abbr_norm_aggr": "sdm"
+    },
+    {
+      "name": "Asia Pacific Web Conference",
+      "abbr": "APWeb",
+      "level": "C",
+      "norm": "asia pacific web conference",
+      "norm_aggr": "asia pacific web",
+      "abbr_norm": "apweb",
+      "abbr_norm_aggr": "apweb"
+    },
+    {
+      "name": "International Conference on Database and Expert System Applications",
+      "abbr": "DEXA",
+      "level": "C",
+      "norm": "international conference on database and expert system applications",
+      "norm_aggr": "database expert system applications",
+      "abbr_norm": "dexa",
+      "abbr_norm_aggr": "dexa"
+    },
+    {
+      "name": "European Conference on Information Retrieval",
+      "abbr": "ECIR",
+      "level": "C",
+      "norm": "european conference on information retrieval",
+      "norm_aggr": "european information retrieval",
+      "abbr_norm": "ecir",
+      "abbr_norm_aggr": "ecir"
+    },
+    {
+      "name": "Extended Semantic Web Conference",
+      "abbr": "ESWC",
+      "level": "C",
+      "norm": "extended semantic web conference",
+      "norm_aggr": "extended semantic web",
+      "abbr_norm": "eswc",
+      "abbr_norm_aggr": "eswc"
+    },
+    {
+      "name": "International Workshop on Web and Databases",
+      "abbr": "WebDB",
+      "level": "C",
+      "norm": "international workshop on web and databases",
+      "norm_aggr": "web databases",
+      "abbr_norm": "webdb",
+      "abbr_norm_aggr": "webdb"
+    },
+    {
+      "name": "International Conference on Conceptual Modeling",
+      "abbr": "ER",
+      "level": "C",
+      "norm": "international conference on conceptual modeling",
+      "norm_aggr": "conceptual modeling",
+      "abbr_norm": "er",
+      "abbr_norm_aggr": "er"
+    },
+    {
+      "name": "International Conference on Mobile Data Management",
+      "abbr": "MDM",
+      "level": "C",
+      "norm": "international conference on mobile data management",
+      "norm_aggr": "mobile data management",
+      "abbr_norm": "mdm",
+      "abbr_norm_aggr": "mdm"
+    },
+    {
+      "name": "International Conference on Scientific and Statistical Database Management",
+      "abbr": "SSDBM",
+      "level": "C",
+      "norm": "international conference on scientific and statistical database management",
+      "norm_aggr": "scientific statistical database management",
+      "abbr_norm": "ssdbm",
+      "abbr_norm_aggr": "ssdbm"
+    },
+    {
+      "name": "International Conference on Web Age Information Management",
+      "abbr": "WAIM",
+      "level": "C",
+      "norm": "international conference on web age information management",
+      "norm_aggr": "web age information management",
+      "abbr_norm": "waim",
+      "abbr_norm_aggr": "waim"
+    },
+    {
+      "name": "International Symposium on Spatial and Temporal Databases",
+      "abbr": "SSTD",
+      "level": "C",
+      "norm": "international symposium on spatial and temporal databases",
+      "norm_aggr": "spatial temporal databases",
+      "abbr_norm": "sstd",
+      "abbr_norm_aggr": "sstd"
+    },
+    {
+      "name": "Pacific-Asia Conference on Knowledge Discovery and Data Mining",
+      "abbr": "PAKDD",
+      "level": "C",
+      "norm": "pacific asia conference on knowledge discovery and data mining",
+      "norm_aggr": "pacific asia knowledge discovery data mining",
+      "abbr_norm": "pakdd",
+      "abbr_norm_aggr": "pakdd"
+    },
+    {
+      "name": "Web Information Systems Engineering International Conference on",
+      "abbr": "WISE",
+      "level": "C",
+      "norm": "web information systems engineering international conference on",
+      "norm_aggr": "web information systems engineering",
+      "abbr_norm": "wise",
+      "abbr_norm_aggr": "wise"
+    },
+    {
+      "name": "Advanced Data Mining and Applications",
+      "abbr": "ADMA",
+      "level": "C",
+      "norm": "advanced data mining and applications",
+      "norm_aggr": "advanced data mining applications",
+      "abbr_norm": "adma",
+      "abbr_norm_aggr": "adma"
+    },
+    {
+      "name": "IEEE Transactions on Information Theory",
+      "abbr": "TIT",
+      "level": "A",
+      "norm": "ieee transactions on information theory",
+      "norm_aggr": "ieee information theory",
+      "abbr_norm": "tit",
+      "abbr_norm_aggr": "tit"
+    },
+    {
+      "name": "Information and Computation",
+      "abbr": "IANDC",
+      "level": "A",
+      "norm": "information and computation",
+      "norm_aggr": "information computation",
+      "abbr_norm": "iandc",
+      "abbr_norm_aggr": "iandc"
+    },
+    {
+      "name": "ACM Transactions on Algorithms",
+      "abbr": "TALG",
+      "level": "B",
+      "norm": "acm transactions on algorithms",
+      "norm_aggr": "acm algorithms",
+      "abbr_norm": "talg",
+      "abbr_norm_aggr": "talg"
+    },
+    {
+      "name": "ACM Transactions on Computational Logic",
+      "abbr": "TOCL",
+      "level": "B",
+      "norm": "acm transactions on computational logic",
+      "norm_aggr": "acm computational logic",
+      "abbr_norm": "tocl",
+      "abbr_norm_aggr": "tocl"
+    },
+    {
+      "name": "ACM Transactions on Mathematical Software",
+      "abbr": "TOMS",
+      "level": "B",
+      "norm": "acm transactions on mathematical software",
+      "norm_aggr": "acm mathematical software",
+      "abbr_norm": "toms",
+      "abbr_norm_aggr": "toms"
+    },
+    {
+      "name": "Computational Complexity",
+      "abbr": "CC",
+      "level": "B",
+      "norm": "computational complexity",
+      "norm_aggr": "computational complexity",
+      "abbr_norm": "cc",
+      "abbr_norm_aggr": "cc"
+    },
+    {
+      "name": "Formal Aspects of Computing",
+      "abbr": "FAC",
+      "level": "B",
+      "norm": "formal aspects of computing",
+      "norm_aggr": "formal aspects computing",
+      "abbr_norm": "fac",
+      "abbr_norm_aggr": "fac"
+    },
+    {
+      "name": "Formal Methods in System Design",
+      "abbr": "FMSD",
+      "level": "B",
+      "norm": "formal methods in system design",
+      "norm_aggr": "formal methods in system design",
+      "abbr_norm": "fmsd",
+      "abbr_norm_aggr": "fmsd"
+    },
+    {
+      "name": "INFORMS Journal on Computing",
+      "abbr": "INFORMS",
+      "level": "B",
+      "norm": "informs journal on computing",
+      "norm_aggr": "informs computing",
+      "abbr_norm": "informs",
+      "abbr_norm_aggr": "informs"
+    },
+    {
+      "name": "Journal of Computer and System Sciences",
+      "abbr": "JCSS",
+      "level": "B",
+      "norm": "journal of computer and system sciences",
+      "norm_aggr": "computer system sciences",
+      "abbr_norm": "jcss",
+      "abbr_norm_aggr": "jcss"
+    },
+    {
+      "name": "Journal of Global Optimization",
+      "abbr": "JGO",
+      "level": "B",
+      "norm": "journal of global optimization",
+      "norm_aggr": "global optimization",
+      "abbr_norm": "jgo",
+      "abbr_norm_aggr": "jgo"
+    },
+    {
+      "name": "Journal of Symbolic Computation",
+      "abbr": "JSC",
+      "level": "B",
+      "norm": "journal of symbolic computation",
+      "norm_aggr": "symbolic computation",
+      "abbr_norm": "jsc",
+      "abbr_norm_aggr": "jsc"
+    },
+    {
+      "name": "Mathematical Structures in Computer Science University Press",
+      "abbr": "MSCS",
+      "level": "B",
+      "norm": "mathematical structures in computer science university press",
+      "norm_aggr": "mathematical structures in computer science university press",
+      "abbr_norm": "mscs",
+      "abbr_norm_aggr": "mscs"
+    },
+    {
+      "name": "Acta Informatica",
+      "abbr": "ACTA",
+      "level": "C",
+      "norm": "acta informatica",
+      "norm_aggr": "acta informatica",
+      "abbr_norm": "acta",
+      "abbr_norm_aggr": "acta"
+    },
+    {
+      "name": "Annals of Pure and Applied Logic",
+      "abbr": "APAL",
+      "level": "C",
+      "norm": "annals of pure and applied logic",
+      "norm_aggr": "annals pure applied logic",
+      "abbr_norm": "apal",
+      "abbr_norm_aggr": "apal"
+    },
+    {
+      "name": "Discrete Applied Mathematics",
+      "abbr": "DAM",
+      "level": "C",
+      "norm": "discrete applied mathematics",
+      "norm_aggr": "discrete applied mathematics",
+      "abbr_norm": "dam",
+      "abbr_norm_aggr": "dam"
+    },
+    {
+      "name": "Fundamenta Informaticae IOS Press Higher-Order and Symbolic Computation",
+      "abbr": "FUIN",
+      "level": "C",
+      "norm": "fundamenta informaticae ios press higher order and symbolic computation",
+      "norm_aggr": "fundamenta informaticae ios press higher order symbolic computation",
+      "abbr_norm": "fuin",
+      "abbr_norm_aggr": "fuin"
+    },
+    {
+      "name": "Journal of Complexity",
+      "abbr": "JCOMPLEXITY",
+      "level": "C",
+      "norm": "journal of complexity",
+      "norm_aggr": "complexity",
+      "abbr_norm": "jcomplexity",
+      "abbr_norm_aggr": "jcomplexity"
+    },
+    {
+      "name": "Journal of Logic and Computation Oxford University Press",
+      "abbr": "LOGCOM",
+      "level": "C",
+      "norm": "journal of logic and computation oxford university press",
+      "norm_aggr": "logic computation oxford university press",
+      "abbr_norm": "logcom",
+      "abbr_norm_aggr": "logcom"
+    },
+    {
+      "name": "The Journal of Symbolic Logic Association for Symbolic Logic",
+      "abbr": "JSL",
+      "level": "C",
+      "norm": "the journal of symbolic logic association for symbolic logic",
+      "norm_aggr": "symbolic logic symbolic logic",
+      "abbr_norm": "jsl",
+      "abbr_norm_aggr": "jsl"
+    },
+    {
+      "name": "Logical Methods in Computer Science",
+      "abbr": "LMCS",
+      "level": "C",
+      "norm": "logical methods in computer science",
+      "norm_aggr": "logical methods in computer science",
+      "abbr_norm": "lmcs",
+      "abbr_norm_aggr": "lmcs"
+    },
+    {
+      "name": "SIAM Journal on Discrete Mathematics",
+      "abbr": "SIDMA",
+      "level": "C",
+      "norm": "siam journal on discrete mathematics",
+      "norm_aggr": "siam discrete mathematics",
+      "abbr_norm": "sidma",
+      "abbr_norm_aggr": "sidma"
+    },
+    {
+      "name": "ACM Symposium on the Theory of Computing",
+      "abbr": "STOC",
+      "level": "A",
+      "norm": "acm symposium on the theory of computing",
+      "norm_aggr": "acm theory computing",
+      "abbr_norm": "stoc",
+      "abbr_norm_aggr": "stoc"
+    },
+    {
+      "name": "ACM-SIAM Symposium on Discrete Algorithms",
+      "abbr": "SODA",
+      "level": "A",
+      "norm": "acm siam symposium on discrete algorithms",
+      "norm_aggr": "acm siam discrete algorithms",
+      "abbr_norm": "soda",
+      "abbr_norm_aggr": "soda"
+    },
+    {
+      "name": "International Conference on Computer Aided Verification",
+      "abbr": "CAV",
+      "level": "A",
+      "norm": "international conference on computer aided verification",
+      "norm_aggr": "computer aided verification",
+      "abbr_norm": "cav",
+      "abbr_norm_aggr": "cav"
+    },
+    {
+      "name": "IEEE Annual Symposium on Foundations of Computer Science",
+      "abbr": "FOCS",
+      "level": "A",
+      "norm": "ieee annual symposium on foundations of computer science",
+      "norm_aggr": "ieee foundations computer science",
+      "abbr_norm": "focs",
+      "abbr_norm_aggr": "focs"
+    },
+    {
+      "name": "International Symposium on Computational Geometry",
+      "abbr": "SoCG",
+      "level": "B",
+      "norm": "international symposium on computational geometry",
+      "norm_aggr": "computational geometry",
+      "abbr_norm": "socg",
+      "abbr_norm_aggr": "socg"
+    },
+    {
+      "name": "European Symposium on Algorithms",
+      "abbr": "ESA",
+      "level": "B",
+      "norm": "european symposium on algorithms",
+      "norm_aggr": "european algorithms",
+      "abbr_norm": "esa",
+      "abbr_norm_aggr": "esa"
+    },
+    {
+      "name": "Conference on Computational Complexity",
+      "abbr": "CCC",
+      "level": "B",
+      "norm": "conference on computational complexity",
+      "norm_aggr": "computational complexity",
+      "abbr_norm": "ccc",
+      "abbr_norm_aggr": "ccc"
+    },
+    {
+      "name": "International Colloquium on Automata, Languages and Programming International Conference on Automated",
+      "abbr": "ICALP",
+      "level": "B",
+      "norm": "international colloquium on automata languages and programming international conference on automated",
+      "norm_aggr": "colloquium automata languages programming automated",
+      "abbr_norm": "icalp",
+      "abbr_norm_aggr": "icalp"
+    },
+    {
+      "name": "Automated Reasoning",
+      "abbr": "Deduction/International Joint Conference on",
+      "level": "B",
+      "norm": "automated reasoning",
+      "norm_aggr": "automated reasoning",
+      "abbr_norm": "deduction international joint conference on",
+      "abbr_norm_aggr": "deduction joint"
+    },
+    {
+      "name": "International Conference on Concurrency Theory",
+      "abbr": "CONCUR",
+      "level": "B",
+      "norm": "international conference on concurrency theory",
+      "norm_aggr": "concurrency theory",
+      "abbr_norm": "concur",
+      "abbr_norm_aggr": "concur"
+    },
+    {
+      "name": "International Conference on Hybrid Systems: Springer and ACM Computation and Control",
+      "abbr": "HSCC",
+      "level": "B",
+      "norm": "international conference on hybrid systems springer and acm computation and control",
+      "norm_aggr": "hybrid systems springer acm computation control",
+      "abbr_norm": "hscc",
+      "abbr_norm_aggr": "hscc"
+    },
+    {
+      "name": "International Conference on Theory and Applications of Satisfiability Testing",
+      "abbr": "SAT",
+      "level": "B",
+      "norm": "international conference on theory and applications of satisfiability testing",
+      "norm_aggr": "theory applications satisfiability testing",
+      "abbr_norm": "sat",
+      "abbr_norm_aggr": "sat"
+    },
+    {
+      "name": "Computer Science Logic",
+      "abbr": "CSL",
+      "level": "C",
+      "norm": "computer science logic",
+      "norm_aggr": "computer science logic",
+      "abbr_norm": "csl",
+      "abbr_norm_aggr": "csl"
+    },
+    {
+      "name": "Formal Methods in Computer-Aided Design",
+      "abbr": "FMCAD",
+      "level": "C",
+      "norm": "formal methods in computer aided design",
+      "norm_aggr": "formal methods in computer aided design",
+      "abbr_norm": "fmcad",
+      "abbr_norm_aggr": "fmcad"
+    },
+    {
+      "name": "Foundations of Software Technology and Indian Association for Research Theoretical Computer Science in Computing Science",
+      "abbr": "FSTTCS",
+      "level": "C",
+      "norm": "foundations of software technology and indian association for research theoretical computer science in computing science",
+      "norm_aggr": "foundations software technology indian research theoretical computer science in computing science",
+      "abbr_norm": "fsttcs",
+      "abbr_norm_aggr": "fsttcs"
+    },
+    {
+      "name": "IEEE International Conference on Data Science and Advanced Analytics",
+      "abbr": "DSAA",
+      "level": "C",
+      "norm": "ieee international conference on data science and advanced analytics",
+      "norm_aggr": "ieee data science advanced analytics",
+      "abbr_norm": "dsaa",
+      "abbr_norm_aggr": "dsaa"
+    },
+    {
+      "name": "International Colloquium on Theoretical Aspects of Computing",
+      "abbr": "ICTAC",
+      "level": "C",
+      "norm": "international colloquium on theoretical aspects of computing",
+      "norm_aggr": "colloquium theoretical aspects computing",
+      "abbr_norm": "ictac",
+      "abbr_norm_aggr": "ictac"
+    },
+    {
+      "name": "International Conference on Integer Programming and Combinatorial Optimization",
+      "abbr": "IPCO",
+      "level": "C",
+      "norm": "international conference on integer programming and combinatorial optimization",
+      "norm_aggr": "integer programming combinatorial optimization",
+      "abbr_norm": "ipco",
+      "abbr_norm_aggr": "ipco"
+    },
+    {
+      "name": "International Conference on Rewriting Techniques and Applications",
+      "abbr": "RTA",
+      "level": "C",
+      "norm": "international conference on rewriting techniques and applications",
+      "norm_aggr": "rewriting techniques applications",
+      "abbr_norm": "rta",
+      "abbr_norm_aggr": "rta"
+    },
+    {
+      "name": "International Symposium on Algorithms and Computation",
+      "abbr": "ISAAC",
+      "level": "C",
+      "norm": "international symposium on algorithms and computation",
+      "norm_aggr": "algorithms computation",
+      "abbr_norm": "isaac",
+      "abbr_norm_aggr": "isaac"
+    },
+    {
+      "name": "International Conference on Mathematical Foundations of Computer Science",
+      "abbr": "MFCS",
+      "level": "C",
+      "norm": "international conference on mathematical foundations of computer science",
+      "norm_aggr": "mathematical foundations computer science",
+      "abbr_norm": "mfcs",
+      "abbr_norm_aggr": "mfcs"
+    },
+    {
+      "name": "Symposium on Theoretical Aspects of Computer Science",
+      "abbr": "STACS",
+      "level": "C",
+      "norm": "symposium on theoretical aspects of computer science",
+      "norm_aggr": "theoretical aspects computer science",
+      "abbr_norm": "stacs",
+      "abbr_norm_aggr": "stacs"
+    },
+    {
+      "name": "International Symposium on Dependable Software Engineering: Theories, Tools, and html Applications",
+      "abbr": "SETTA",
+      "level": "C",
+      "norm": "international symposium on dependable software engineering theories tools and html applications",
+      "norm_aggr": "dependable software engineering theories tools html applications",
+      "abbr_norm": "setta",
+      "abbr_norm_aggr": "setta"
+    },
+    {
+      "name": "ACM Transactions on Graphics",
+      "abbr": "TOG",
+      "level": "A",
+      "norm": "acm transactions on graphics",
+      "norm_aggr": "acm graphics",
+      "abbr_norm": "tog",
+      "abbr_norm_aggr": "tog"
+    },
+    {
+      "name": "IEEE Transactions on Image Processing",
+      "abbr": "TIP",
+      "level": "A",
+      "norm": "ieee transactions on image processing",
+      "norm_aggr": "ieee image processing",
+      "abbr_norm": "tip",
+      "abbr_norm_aggr": "tip"
+    },
+    {
+      "name": "Computer Aided Geometric Design",
+      "abbr": "CAGD",
+      "level": "B",
+      "norm": "computer aided geometric design",
+      "norm_aggr": "computer aided geometric design",
+      "abbr_norm": "cagd",
+      "abbr_norm_aggr": "cagd"
+    },
+    {
+      "name": "Computer Graphics Forum",
+      "abbr": "CGF",
+      "level": "B",
+      "norm": "computer graphics forum",
+      "norm_aggr": "computer graphics forum",
+      "abbr_norm": "cgf",
+      "abbr_norm_aggr": "cgf"
+    },
+    {
+      "name": "Computer-Aided Design",
+      "abbr": "CAD",
+      "level": "B",
+      "norm": "computer aided design",
+      "norm_aggr": "computer aided design",
+      "abbr_norm": "cad",
+      "abbr_norm_aggr": "cad"
+    },
+    {
+      "name": "Graphical Models",
+      "abbr": "GM",
+      "level": "B",
+      "norm": "graphical models",
+      "norm_aggr": "graphical models",
+      "abbr_norm": "gm",
+      "abbr_norm_aggr": "gm"
+    },
+    {
+      "name": "IEEE Transactions on Circuits and Systems for Video Technology",
+      "abbr": "TCSVT",
+      "level": "B",
+      "norm": "ieee transactions on circuits and systems for video technology",
+      "norm_aggr": "ieee circuits systems video technology",
+      "abbr_norm": "tcsvt",
+      "abbr_norm_aggr": "tcsvt"
+    },
+    {
+      "name": "IEEE Transactions on Multimedia",
+      "abbr": "TMM",
+      "level": "B",
+      "norm": "ieee transactions on multimedia",
+      "norm_aggr": "ieee multimedia",
+      "abbr_norm": "tmm",
+      "abbr_norm_aggr": "tmm"
+    },
+    {
+      "name": "The Journal of the Acoustical Society of AIP America",
+      "abbr": "JASA",
+      "level": "B",
+      "norm": "the journal of the acoustical society of aip america",
+      "norm_aggr": "acoustical aip america",
+      "abbr_norm": "jasa",
+      "abbr_norm_aggr": "jasa"
+    },
+    {
+      "name": "SIAM Journal on Imaging Sciences",
+      "abbr": "SIIMS",
+      "level": "B",
+      "norm": "siam journal on imaging sciences",
+      "norm_aggr": "siam imaging sciences",
+      "abbr_norm": "siims",
+      "abbr_norm_aggr": "siims"
+    },
+    {
+      "name": "Computational Geometry: Theory and Applications",
+      "abbr": "CGTA",
+      "level": "C",
+      "norm": "computational geometry theory and applications",
+      "norm_aggr": "computational geometry theory applications",
+      "abbr_norm": "cgta",
+      "abbr_norm_aggr": "cgta"
+    },
+    {
+      "name": "computer animation & virtual worlds",
+      "abbr": "CAVW",
+      "level": "C",
+      "norm": "computer animation and virtual worlds",
+      "norm_aggr": "computer animation virtual worlds",
+      "abbr_norm": "cavw",
+      "abbr_norm_aggr": "cavw"
+    },
+    {
+      "name": "Computers & Graphics",
+      "abbr": "C&G",
+      "level": "C",
+      "norm": "computers and graphics",
+      "norm_aggr": "computers graphics",
+      "abbr_norm": "c and g",
+      "abbr_norm_aggr": "c g"
+    },
+    {
+      "name": "Discrete & Computational Geometry",
+      "abbr": "DCG",
+      "level": "C",
+      "norm": "discrete and computational geometry",
+      "norm_aggr": "discrete computational geometry",
+      "abbr_norm": "dcg",
+      "abbr_norm_aggr": "dcg"
+    },
+    {
+      "name": "IEEE Signal Processing Letters",
+      "abbr": "SPL",
+      "level": "C",
+      "norm": "ieee signal processing letters",
+      "norm_aggr": "ieee signal processing",
+      "abbr_norm": "spl",
+      "abbr_norm_aggr": "spl"
+    },
+    {
+      "name": "IET Image Processing IET",
+      "abbr": "IET-IPR",
+      "level": "C",
+      "norm": "iet image processing iet",
+      "norm_aggr": "iet image processing iet",
+      "abbr_norm": "iet ipr",
+      "abbr_norm_aggr": "iet ipr"
+    },
+    {
+      "name": "Journal of Visual Communication and Image Representation",
+      "abbr": "JVCIR",
+      "level": "C",
+      "norm": "journal of visual communication and image representation",
+      "norm_aggr": "visual communication image representation",
+      "abbr_norm": "jvcir",
+      "abbr_norm_aggr": "jvcir"
+    },
+    {
+      "name": "Multimedia Systems",
+      "abbr": "MS",
+      "level": "C",
+      "norm": "multimedia systems",
+      "norm_aggr": "multimedia systems",
+      "abbr_norm": "ms",
+      "abbr_norm_aggr": "ms"
+    },
+    {
+      "name": "Multimedia Tools and Applications",
+      "abbr": "MTA",
+      "level": "C",
+      "norm": "multimedia tools and applications",
+      "norm_aggr": "multimedia tools applications",
+      "abbr_norm": "mta",
+      "abbr_norm_aggr": "mta"
+    },
+    {
+      "name": "Signal Processing",
+      "abbr": "SIGPRO",
+      "level": "C",
+      "norm": "signal processing",
+      "norm_aggr": "signal processing",
+      "abbr_norm": "sigpro",
+      "abbr_norm_aggr": "sigpro"
+    },
+    {
+      "name": "Signal Processing: Image Communication",
+      "abbr": "IMAGE",
+      "level": "C",
+      "norm": "signal processing image communication",
+      "norm_aggr": "signal processing image communication",
+      "abbr_norm": "image",
+      "abbr_norm_aggr": "image"
+    },
+    {
+      "name": "The Visual Computer Tsinghua",
+      "abbr": "TVC",
+      "level": "C",
+      "norm": "the visual computer tsinghua",
+      "norm_aggr": "visual computer tsinghua",
+      "abbr_norm": "tvc",
+      "abbr_norm_aggr": "tvc"
+    },
+    {
+      "name": "Computational Visual Media University Springer",
+      "abbr": "CVMJ",
+      "level": "C",
+      "norm": "computational visual media university springer",
+      "norm_aggr": "computational visual media university springer",
+      "abbr_norm": "cvmj",
+      "abbr_norm_aggr": "cvmj"
+    },
+    {
+      "name": "ACM International Conference on Multimedia",
+      "abbr": "ACM MM",
+      "level": "A",
+      "norm": "acm international conference on multimedia",
+      "norm_aggr": "acm multimedia",
+      "abbr_norm": "acm mm",
+      "abbr_norm_aggr": "acm mm"
+    },
+    {
+      "name": "ACM Special Interest Group on Computer Graphics",
+      "abbr": "SIGGRAPH",
+      "level": "A",
+      "norm": "acm special interest group on computer graphics",
+      "norm_aggr": "acm special interest group computer graphics",
+      "abbr_norm": "siggraph",
+      "abbr_norm_aggr": "siggraph"
+    },
+    {
+      "name": "IEEE Virtual Reality",
+      "abbr": "VR",
+      "level": "A",
+      "norm": "ieee virtual reality",
+      "norm_aggr": "ieee virtual reality",
+      "abbr_norm": "vr",
+      "abbr_norm_aggr": "vr"
+    },
+    {
+      "name": "ACM SIGMM International Conference on Multimedia Retrieval",
+      "abbr": "ICMR",
+      "level": "B",
+      "norm": "acm sigmm international conference on multimedia retrieval",
+      "norm_aggr": "acm sigmm multimedia retrieval",
+      "abbr_norm": "icmr",
+      "abbr_norm_aggr": "icmr"
+    },
+    {
+      "name": "ACM SIGGRAPH Symposium on Interactive 3D Graphics and Games",
+      "abbr": "I3D",
+      "level": "B",
+      "norm": "acm siggraph symposium on interactive 3d graphics and games",
+      "norm_aggr": "acm siggraph interactive 3d graphics games",
+      "abbr_norm": "i3d",
+      "abbr_norm_aggr": "i3d"
+    },
+    {
+      "name": "ACM SIGGRAPH/Eurographics Symposium on Computer Animation",
+      "abbr": "SCA",
+      "level": "B",
+      "norm": "acm siggraph eurographics symposium on computer animation",
+      "norm_aggr": "acm siggraph eurographics computer animation",
+      "abbr_norm": "sca",
+      "abbr_norm_aggr": "sca"
+    },
+    {
+      "name": "Data Compression Conference",
+      "abbr": "DCC",
+      "level": "B",
+      "norm": "data compression conference",
+      "norm_aggr": "data compression",
+      "abbr_norm": "dcc",
+      "abbr_norm_aggr": "dcc"
+    },
+    {
+      "name": "Annual Conference of the European Wiley/ Blackwell cs Association for Computer Graphics",
+      "abbr": "Eurographi",
+      "level": "B",
+      "norm": "annual conference of the european wiley blackwell cs association for computer graphics",
+      "norm_aggr": "european wiley blackwell cs computer graphics",
+      "abbr_norm": "eurographi",
+      "abbr_norm_aggr": "eurographi"
+    },
+    {
+      "name": "Eurographics Conference on Visualization",
+      "abbr": "EuroVis",
+      "level": "B",
+      "norm": "eurographics conference on visualization",
+      "norm_aggr": "eurographics visualization",
+      "abbr_norm": "eurovis",
+      "abbr_norm_aggr": "eurovis"
+    },
+    {
+      "name": "Eurographics Symposium on Geometry Wiley/Blackwell Processing",
+      "abbr": "SGP",
+      "level": "B",
+      "norm": "eurographics symposium on geometry wiley blackwell processing",
+      "norm_aggr": "eurographics geometry wiley blackwell processing",
+      "abbr_norm": "sgp",
+      "abbr_norm_aggr": "sgp"
+    },
+    {
+      "name": "Eurographics Symposium on Rendering Wiley/Blackwell",
+      "abbr": "EGSR",
+      "level": "B",
+      "norm": "eurographics symposium on rendering wiley blackwell",
+      "norm_aggr": "eurographics rendering wiley blackwell",
+      "abbr_norm": "egsr",
+      "abbr_norm_aggr": "egsr"
+    },
+    {
+      "name": "IEEE International Conference on Acoustics, Speech and Signal Processing",
+      "abbr": "ICASSP",
+      "level": "B",
+      "norm": "ieee international conference on acoustics speech and signal processing",
+      "norm_aggr": "ieee acoustics speech signal processing",
+      "abbr_norm": "icassp",
+      "abbr_norm_aggr": "icassp"
+    },
+    {
+      "name": "IEEE International Conference on Multimedia & Expo",
+      "abbr": "ICME",
+      "level": "B",
+      "norm": "ieee international conference on multimedia and expo",
+      "norm_aggr": "ieee multimedia expo",
+      "abbr_norm": "icme",
+      "abbr_norm_aggr": "icme"
+    },
+    {
+      "name": "International Symposium on Mixed and IEEE/ACM Augmented Reality Pacific Conference onComputer Graphics",
+      "abbr": "ISMAR",
+      "level": "B",
+      "norm": "international symposium on mixed and ieee acm augmented reality pacific conference oncomputer graphics",
+      "norm_aggr": "mixed ieee acm augmented reality pacific oncomputer graphics",
+      "abbr_norm": "ismar",
+      "abbr_norm_aggr": "ismar"
+    },
+    {
+      "name": "and Applications Wiley/Blackwell",
+      "abbr": "PG",
+      "level": "B",
+      "norm": "and applications wiley blackwell",
+      "norm_aggr": "applications wiley blackwell",
+      "abbr_norm": "pg",
+      "abbr_norm_aggr": "pg"
+    },
+    {
+      "name": "ACM Symposium on Virtual Reality Software and Technology",
+      "abbr": "VRST",
+      "level": "C",
+      "norm": "acm symposium on virtual reality software and technology",
+      "norm_aggr": "acm virtual reality software technology",
+      "abbr_norm": "vrst",
+      "abbr_norm_aggr": "vrst"
+    },
+    {
+      "name": "International Conference on Computer Animation and Social Agents",
+      "abbr": "CASA",
+      "level": "C",
+      "norm": "international conference on computer animation and social agents",
+      "norm_aggr": "computer animation social agents",
+      "abbr_norm": "casa",
+      "abbr_norm_aggr": "casa"
+    },
+    {
+      "name": "Computer Graphics International",
+      "abbr": "CGI",
+      "level": "C",
+      "norm": "computer graphics international",
+      "norm_aggr": "computer graphics",
+      "abbr_norm": "cgi",
+      "abbr_norm_aggr": "cgi"
+    },
+    {
+      "name": "Conference of the International Speech Communication Association",
+      "abbr": "INTERSPEECH",
+      "level": "C",
+      "norm": "conference of the international speech communication association",
+      "norm_aggr": "speech communication",
+      "abbr_norm": "interspeech",
+      "abbr_norm_aggr": "interspeech"
+    },
+    {
+      "name": "Geometric Modeling and Processing",
+      "abbr": "GMP",
+      "level": "C",
+      "norm": "geometric modeling and processing",
+      "norm_aggr": "geometric modeling processing",
+      "abbr_norm": "gmp",
+      "abbr_norm_aggr": "gmp"
+    },
+    {
+      "name": "IEEE Pacific Visualization Symposium",
+      "abbr": "PacificVis",
+      "level": "C",
+      "norm": "ieee pacific visualization symposium",
+      "norm_aggr": "ieee pacific visualization",
+      "abbr_norm": "pacificvis",
+      "abbr_norm_aggr": "pacificvis"
+    },
+    {
+      "name": "International Conference on 3D Vision",
+      "abbr": "3DV",
+      "level": "C",
+      "norm": "international conference on 3d vision",
+      "norm_aggr": "3d vision",
+      "abbr_norm": "3dv",
+      "abbr_norm_aggr": "3dv"
+    },
+    {
+      "name": "International Conference on Computer-Aided Design and Computer Graphics",
+      "abbr": "CAD/Graphics",
+      "level": "C",
+      "norm": "international conference on computer aided design and computer graphics",
+      "norm_aggr": "computer aided design computer graphics",
+      "abbr_norm": "cad graphics",
+      "abbr_norm_aggr": "cad graphics"
+    },
+    {
+      "name": "IEEE International Conference on Image Processing",
+      "abbr": "ICIP",
+      "level": "C",
+      "norm": "ieee international conference on image processing",
+      "norm_aggr": "ieee image processing",
+      "abbr_norm": "icip",
+      "abbr_norm_aggr": "icip"
+    },
+    {
+      "name": "International Conference on Multimedia Modeling",
+      "abbr": "MMM",
+      "level": "C",
+      "norm": "international conference on multimedia modeling",
+      "norm_aggr": "multimedia modeling",
+      "abbr_norm": "mmm",
+      "abbr_norm_aggr": "mmm"
+    },
+    {
+      "name": "ACM Multimedia Asia",
+      "abbr": "MMAsia",
+      "level": "C",
+      "norm": "acm multimedia asia",
+      "norm_aggr": "acm multimedia asia",
+      "abbr_norm": "mmasia",
+      "abbr_norm_aggr": "mmasia"
+    },
+    {
+      "name": "Shape Modeling International",
+      "abbr": "SMI",
+      "level": "C",
+      "norm": "shape modeling international",
+      "norm_aggr": "shape modeling",
+      "abbr_norm": "smi",
+      "abbr_norm_aggr": "smi"
+    },
+    {
+      "name": "International Conference on Virtual Reality and Visualization",
+      "abbr": "ICVRV",
+      "level": "C",
+      "norm": "international conference on virtual reality and visualization",
+      "norm_aggr": "virtual reality visualization",
+      "abbr_norm": "icvrv",
+      "abbr_norm_aggr": "icvrv"
+    },
+    {
+      "name": "Computational Visual Media Tsinghua University Chinese Conference on Pattern",
+      "abbr": "CVM",
+      "level": "C",
+      "norm": "computational visual media tsinghua university chinese conference on pattern",
+      "norm_aggr": "computational visual media tsinghua university chinese pattern",
+      "abbr_norm": "cvm",
+      "abbr_norm_aggr": "cvm"
+    },
+    {
+      "name": "Recognition and Computer Vision",
+      "abbr": "PRCV",
+      "level": "C",
+      "norm": "recognition and computer vision",
+      "norm_aggr": "recognition computer vision",
+      "abbr_norm": "prcv",
+      "abbr_norm_aggr": "prcv"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "abbr": "AI",
+      "level": "A",
+      "norm": "artificial intelligence",
+      "norm_aggr": "artificial intelligence",
+      "abbr_norm": "ai",
+      "abbr_norm_aggr": "ai"
+    },
+    {
+      "name": "IEEE Transactions on Pattern Analysis and MachineIntelligence",
+      "abbr": "TPAMI",
+      "level": "A",
+      "norm": "ieee transactions on pattern analysis and machineintelligence",
+      "norm_aggr": "ieee pattern analysis machineintelligence",
+      "abbr_norm": "tpami",
+      "abbr_norm_aggr": "tpami"
+    },
+    {
+      "name": "International Journal of Computer Vision",
+      "abbr": "IJCV",
+      "level": "A",
+      "norm": "international journal of computer vision",
+      "norm_aggr": "computer vision",
+      "abbr_norm": "ijcv",
+      "abbr_norm_aggr": "ijcv"
+    },
+    {
+      "name": "ACM Transactions on Applied Perception ACM Transactions on Speech and Language",
+      "abbr": "TAP",
+      "level": "B",
+      "norm": "acm transactions on applied perception acm transactions on speech and language",
+      "norm_aggr": "acm applied perception acm speech language",
+      "abbr_norm": "tap",
+      "abbr_norm_aggr": "tap"
+    },
+    {
+      "name": "Autonomous Agents and Multi-Agent Systems",
+      "abbr": "AAMAS",
+      "level": "B",
+      "norm": "autonomous agents and multi agent systems",
+      "norm_aggr": "autonomous agents multi agent systems",
+      "abbr_norm": "aamas",
+      "abbr_norm_aggr": "aamas"
+    },
+    {
+      "name": "Computer Vision and Image Understanding",
+      "abbr": "CVIU",
+      "level": "B",
+      "norm": "computer vision and image understanding",
+      "norm_aggr": "computer vision image understanding",
+      "abbr_norm": "cviu",
+      "abbr_norm_aggr": "cviu"
+    },
+    {
+      "name": "IEEE Transactions on Affective Computing",
+      "abbr": "TAC",
+      "level": "B",
+      "norm": "ieee transactions on affective computing",
+      "norm_aggr": "ieee affective computing",
+      "abbr_norm": "tac",
+      "abbr_norm_aggr": "tac"
+    },
+    {
+      "name": "IEEE/ACM Transactions on Audio, Speech and Language Processing",
+      "abbr": "TASLP",
+      "level": "B",
+      "norm": "ieee acm transactions on audio speech and language processing",
+      "norm_aggr": "ieee acm audio speech language processing",
+      "abbr_norm": "taslp",
+      "abbr_norm_aggr": "taslp"
+    },
+    {
+      "name": "IEEE Transactions on Evolutionary Computation",
+      "abbr": "TEC",
+      "level": "B",
+      "norm": "ieee transactions on evolutionary computation",
+      "norm_aggr": "ieee evolutionary computation",
+      "abbr_norm": "tec",
+      "abbr_norm_aggr": "tec"
+    },
+    {
+      "name": "IEEE Transactions on Fuzzy Systems",
+      "abbr": "TFS",
+      "level": "B",
+      "norm": "ieee transactions on fuzzy systems",
+      "norm_aggr": "ieee fuzzy systems",
+      "abbr_norm": "tfs",
+      "abbr_norm_aggr": "tfs"
+    },
+    {
+      "name": "IEEE Transactions on Neural Networks and learning systems",
+      "abbr": "TNNLS",
+      "level": "B",
+      "norm": "ieee transactions on neural networks and learning systems",
+      "norm_aggr": "ieee neural networks learning systems",
+      "abbr_norm": "tnnls",
+      "abbr_norm_aggr": "tnnls"
+    },
+    {
+      "name": "International Journal of Approximate Reasoning",
+      "abbr": "IJAR",
+      "level": "B",
+      "norm": "international journal of approximate reasoning",
+      "norm_aggr": "approximate reasoning",
+      "abbr_norm": "ijar",
+      "abbr_norm_aggr": "ijar"
+    },
+    {
+      "name": "Journal of Artificial Intelligence Research AAAI",
+      "abbr": "JAIR",
+      "level": "B",
+      "norm": "journal of artificial intelligence research aaai",
+      "norm_aggr": "artificial intelligence research aaai",
+      "abbr_norm": "jair",
+      "abbr_norm_aggr": "jair"
+    },
+    {
+      "name": "Journal of Speech, Language, and Hearing American Speech-",
+      "abbr": "Journal of Automated Reasoning",
+      "level": "B",
+      "norm": "journal of speech language and hearing american speech",
+      "norm_aggr": "speech language hearing american speech",
+      "abbr_norm": "journal of automated reasoning",
+      "abbr_norm_aggr": "automated reasoning"
+    },
+    {
+      "name": "Research Language Hearing Association",
+      "abbr": "JSLHR",
+      "level": "B",
+      "norm": "research language hearing association",
+      "norm_aggr": "research language hearing",
+      "abbr_norm": "jslhr",
+      "abbr_norm_aggr": "jslhr"
+    },
+    {
+      "name": "Pattern Recognition The Association",
+      "abbr": "PR",
+      "level": "B",
+      "norm": "pattern recognition the association",
+      "norm_aggr": "pattern recognition",
+      "abbr_norm": "pr",
+      "abbr_norm_aggr": "pr"
+    },
+    {
+      "name": "ACM Transactions on Asian and Low- Resource Language Information Processing",
+      "abbr": "TALLIP",
+      "level": "C",
+      "norm": "acm transactions on asian and low resource language information processing",
+      "norm_aggr": "acm asian low resource language information processing",
+      "abbr_norm": "tallip",
+      "abbr_norm_aggr": "tallip"
+    },
+    {
+      "name": "Artificial Intelligence in Medicine",
+      "abbr": "AIM",
+      "level": "C",
+      "norm": "artificial intelligence in medicine",
+      "norm_aggr": "artificial intelligence in medicine",
+      "abbr_norm": "aim",
+      "abbr_norm_aggr": "aim"
+    },
+    {
+      "name": "Taylor & Francis",
+      "abbr": "Connection Science",
+      "level": "C",
+      "norm": "taylor and francis",
+      "norm_aggr": "taylor francis",
+      "abbr_norm": "connection science",
+      "abbr_norm_aggr": "connection science"
+    },
+    {
+      "name": "Decision Support Systems",
+      "abbr": "DSS",
+      "level": "C",
+      "norm": "decision support systems",
+      "norm_aggr": "decision support systems",
+      "abbr_norm": "dss",
+      "abbr_norm_aggr": "dss"
+    },
+    {
+      "name": "Engineering Applications of Artificial Intelligence",
+      "abbr": "EAAI",
+      "level": "C",
+      "norm": "engineering applications of artificial intelligence",
+      "norm_aggr": "engineering applications artificial intelligence",
+      "abbr_norm": "eaai",
+      "abbr_norm_aggr": "eaai"
+    },
+    {
+      "name": "Blackwell/Wiley",
+      "abbr": "Expert Systems",
+      "level": "C",
+      "norm": "blackwell wiley",
+      "norm_aggr": "blackwell wiley",
+      "abbr_norm": "expert systems",
+      "abbr_norm_aggr": "expert systems"
+    },
+    {
+      "name": "Expert Systems with Applications",
+      "abbr": "ESWA",
+      "level": "C",
+      "norm": "expert systems with applications",
+      "norm_aggr": "expert systems with applications",
+      "abbr_norm": "eswa",
+      "abbr_norm_aggr": "eswa"
+    },
+    {
+      "name": "IEEE Transactions on Games",
+      "abbr": "TG",
+      "level": "C",
+      "norm": "ieee transactions on games",
+      "norm_aggr": "ieee games",
+      "abbr_norm": "tg",
+      "abbr_norm_aggr": "tg"
+    },
+    {
+      "name": "IET Computer Vision IET",
+      "abbr": "IET-CVI",
+      "level": "C",
+      "norm": "iet computer vision iet",
+      "norm_aggr": "iet computer vision iet",
+      "abbr_norm": "iet cvi",
+      "abbr_norm_aggr": "iet cvi"
+    },
+    {
+      "name": "IET",
+      "abbr": "IET Signal Processing",
+      "level": "C",
+      "norm": "iet",
+      "norm_aggr": "iet",
+      "abbr_norm": "iet signal processing",
+      "abbr_norm_aggr": "iet signal processing"
+    },
+    {
+      "name": "Image and Vision Computing",
+      "abbr": "IVC",
+      "level": "C",
+      "norm": "image and vision computing",
+      "norm_aggr": "image vision computing",
+      "abbr_norm": "ivc",
+      "abbr_norm_aggr": "ivc"
+    },
+    {
+      "name": "Intelligent Data Analysis IOS Press",
+      "abbr": "IDA",
+      "level": "C",
+      "norm": "intelligent data analysis ios press",
+      "norm_aggr": "intelligent data analysis ios press",
+      "abbr_norm": "ida",
+      "abbr_norm_aggr": "ida"
+    },
+    {
+      "name": "International Journal of Computational Intelligence and Applications",
+      "abbr": "IJCIA",
+      "level": "C",
+      "norm": "international journal of computational intelligence and applications",
+      "norm_aggr": "computational intelligence applications",
+      "abbr_norm": "ijcia",
+      "abbr_norm_aggr": "ijcia"
+    },
+    {
+      "name": "International Journal of Neural Systems",
+      "abbr": "IJNS",
+      "level": "C",
+      "norm": "international journal of neural systems",
+      "norm_aggr": "neural systems",
+      "abbr_norm": "ijns",
+      "abbr_norm_aggr": "ijns"
+    },
+    {
+      "name": "International Journal of Pattern Recognition and Artificial Intelligence",
+      "abbr": "IJPRAI",
+      "level": "C",
+      "norm": "international journal of pattern recognition and artificial intelligence",
+      "norm_aggr": "pattern recognition artificial intelligence",
+      "abbr_norm": "ijprai",
+      "abbr_norm_aggr": "ijprai"
+    },
+    {
+      "name": "International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems",
+      "abbr": "IJUFKS",
+      "level": "C",
+      "norm": "international journal of uncertainty fuzziness and knowledge based systems",
+      "norm_aggr": "uncertainty fuzziness knowledge based systems",
+      "abbr_norm": "ijufks",
+      "abbr_norm_aggr": "ijufks"
+    },
+    {
+      "name": "International Journal on Document Analysis and Recognition",
+      "abbr": "IJDAR",
+      "level": "C",
+      "norm": "international journal on document analysis and recognition",
+      "norm_aggr": "document analysis recognition",
+      "abbr_norm": "ijdar",
+      "abbr_norm_aggr": "ijdar"
+    },
+    {
+      "name": "Journal of Experimental and Theoretical Taylor & Francis Artificial Intelligence",
+      "abbr": "JETAI",
+      "level": "C",
+      "norm": "journal of experimental and theoretical taylor and francis artificial intelligence",
+      "norm_aggr": "experimental theoretical taylor francis artificial intelligence",
+      "abbr_norm": "jetai",
+      "abbr_norm_aggr": "jetai"
+    },
+    {
+      "name": "Knowledge-Based Systems",
+      "abbr": "KBS",
+      "level": "C",
+      "norm": "knowledge based systems",
+      "norm_aggr": "knowledge based systems",
+      "abbr_norm": "kbs",
+      "abbr_norm_aggr": "kbs"
+    },
+    {
+      "name": "Natural Language Engineering University Press",
+      "abbr": "NLE",
+      "level": "C",
+      "norm": "natural language engineering university press",
+      "norm_aggr": "natural language engineering university press",
+      "abbr_norm": "nle",
+      "abbr_norm_aggr": "nle"
+    },
+    {
+      "name": "Neural Computing and Applications",
+      "abbr": "NCA",
+      "level": "C",
+      "norm": "neural computing and applications",
+      "norm_aggr": "neural computing applications",
+      "abbr_norm": "nca",
+      "abbr_norm_aggr": "nca"
+    },
+    {
+      "name": "Neural Processing Letters",
+      "abbr": "NPL",
+      "level": "C",
+      "norm": "neural processing letters",
+      "norm_aggr": "neural processing",
+      "abbr_norm": "npl",
+      "abbr_norm_aggr": "npl"
+    },
+    {
+      "name": "Pattern Analysis and Applications",
+      "abbr": "PAA",
+      "level": "C",
+      "norm": "pattern analysis and applications",
+      "norm_aggr": "pattern analysis applications",
+      "abbr_norm": "paa",
+      "abbr_norm_aggr": "paa"
+    },
+    {
+      "name": "Pattern Recognition Letters",
+      "abbr": "PRL",
+      "level": "C",
+      "norm": "pattern recognition letters",
+      "norm_aggr": "pattern recognition",
+      "abbr_norm": "prl",
+      "abbr_norm_aggr": "prl"
+    },
+    {
+      "name": "Web Intelligence IOS Press",
+      "abbr": "WI",
+      "level": "C",
+      "norm": "web intelligence ios press",
+      "norm_aggr": "web intelligence ios press",
+      "abbr_norm": "wi",
+      "abbr_norm_aggr": "wi"
+    },
+    {
+      "name": "ACM Transactions on Interactive Intelligent Systems",
+      "abbr": "TIIS",
+      "level": "C",
+      "norm": "acm transactions on interactive intelligent systems",
+      "norm_aggr": "acm interactive intelligent systems",
+      "abbr_norm": "tiis",
+      "abbr_norm_aggr": "tiis"
+    },
+    {
+      "name": "AAAI Conference on Artificial Intelligence",
+      "abbr": "AAAI",
+      "level": "A",
+      "norm": "aaai conference on artificial intelligence",
+      "norm_aggr": "aaai artificial intelligence",
+      "abbr_norm": "aaai",
+      "abbr_norm_aggr": "aaai"
+    },
+    {
+      "name": "Conference on Neural Information Processing Systems Annual Meeting of the",
+      "abbr": "NeurIPS",
+      "level": "A",
+      "norm": "conference on neural information processing systems annual meeting of the",
+      "norm_aggr": "neural information processing systems meeting",
+      "abbr_norm": "neurips",
+      "abbr_norm_aggr": "neurips"
+    },
+    {
+      "name": "Association for Computational Linguistics",
+      "abbr": "ACL",
+      "level": "A",
+      "norm": "association for computational linguistics",
+      "norm_aggr": "computational linguistics",
+      "abbr_norm": "acl",
+      "abbr_norm_aggr": "acl"
+    },
+    {
+      "name": "IEEE/CVF Computer Vision and Pattern Recognition Conference",
+      "abbr": "CVPR",
+      "level": "A",
+      "norm": "ieee cvf computer vision and pattern recognition conference",
+      "norm_aggr": "ieee cvf computer vision pattern recognition",
+      "abbr_norm": "cvpr",
+      "abbr_norm_aggr": "cvpr"
+    },
+    {
+      "name": "International Conference on Computer Vision",
+      "abbr": "ICCV",
+      "level": "A",
+      "norm": "international conference on computer vision",
+      "norm_aggr": "computer vision",
+      "abbr_norm": "iccv",
+      "abbr_norm_aggr": "iccv"
+    },
+    {
+      "name": "International Conference on Machine Learning",
+      "abbr": "ICML",
+      "level": "A",
+      "norm": "international conference on machine learning",
+      "norm_aggr": "machine learning",
+      "abbr_norm": "icml",
+      "abbr_norm_aggr": "icml"
+    },
+    {
+      "name": "Annual Conference on Computational Learning Theory Conference on Empirical",
+      "abbr": "COLT",
+      "level": "B",
+      "norm": "annual conference on computational learning theory conference on empirical",
+      "norm_aggr": "computational learning theory empirical",
+      "abbr_norm": "colt",
+      "abbr_norm_aggr": "colt"
+    },
+    {
+      "name": "Methods in Natural Language ACL Processing",
+      "abbr": "EMNLP",
+      "level": "B",
+      "norm": "methods in natural language acl processing",
+      "norm_aggr": "methods in natural language acl processing",
+      "abbr_norm": "emnlp",
+      "abbr_norm_aggr": "emnlp"
+    },
+    {
+      "name": "European Conference on IOS Press Artificial Intelligence",
+      "abbr": "ECAI",
+      "level": "B",
+      "norm": "european conference on ios press artificial intelligence",
+      "norm_aggr": "european ios press artificial intelligence",
+      "abbr_norm": "ecai",
+      "abbr_norm_aggr": "ecai"
+    },
+    {
+      "name": "European Conference on Computer Vision",
+      "abbr": "ECCV",
+      "level": "B",
+      "norm": "european conference on computer vision",
+      "norm_aggr": "european computer vision",
+      "abbr_norm": "eccv",
+      "abbr_norm_aggr": "eccv"
+    },
+    {
+      "name": "IEEE International Conference on Robotics and Automation International Conference on",
+      "abbr": "ICRA",
+      "level": "B",
+      "norm": "ieee international conference on robotics and automation international conference on",
+      "norm_aggr": "ieee robotics automation",
+      "abbr_norm": "icra",
+      "abbr_norm_aggr": "icra"
+    },
+    {
+      "name": "Automated Planning and AAAI Scheduling International Conference on",
+      "abbr": "ICAPS",
+      "level": "B",
+      "norm": "automated planning and aaai scheduling international conference on",
+      "norm_aggr": "automated planning aaai scheduling",
+      "abbr_norm": "icaps",
+      "abbr_norm_aggr": "icaps"
+    },
+    {
+      "name": "Case-Based Reasoning",
+      "abbr": "ICCBR",
+      "level": "B",
+      "norm": "case based reasoning",
+      "norm_aggr": "case based reasoning",
+      "abbr_norm": "iccbr",
+      "abbr_norm_aggr": "iccbr"
+    },
+    {
+      "name": "International Conference on International Computational Linguistics Committee on Computational Linguistics International Conference on",
+      "abbr": "COLING",
+      "level": "B",
+      "norm": "international conference on international computational linguistics committee on computational linguistics international conference on",
+      "norm_aggr": "computational linguistics committee computational linguistics",
+      "abbr_norm": "coling",
+      "abbr_norm_aggr": "coling"
+    },
+    {
+      "name": "Principles of Knowledge Morgan Kaufmann Representation and Reasoning Conference onUncertainty in",
+      "abbr": "KR",
+      "level": "B",
+      "norm": "principles of knowledge morgan kaufmann representation and reasoning conference onuncertainty in",
+      "norm_aggr": "principles knowledge morgan kaufmann representation reasoning onuncertainty in",
+      "abbr_norm": "kr",
+      "abbr_norm_aggr": "kr"
+    },
+    {
+      "name": "Artificial AUAI Intelligence International Joint Conference on",
+      "abbr": "UAI",
+      "level": "B",
+      "norm": "artificial auai intelligence international joint conference on",
+      "norm_aggr": "artificial auai intelligence joint",
+      "abbr_norm": "uai",
+      "abbr_norm_aggr": "uai"
+    },
+    {
+      "name": "Parallel Problem Solving from Nature North American Chapter of the",
+      "abbr": "PPSN",
+      "level": "B",
+      "norm": "parallel problem solving from nature north american chapter of the",
+      "norm_aggr": "parallel problem solving from nature north american chapter",
+      "abbr_norm": "ppsn",
+      "abbr_norm_aggr": "ppsn"
+    },
+    {
+      "name": "International Conference on Artificial JMLR Intelligence and Statistics",
+      "abbr": "AISTATS",
+      "level": "C",
+      "norm": "international conference on artificial jmlr intelligence and statistics",
+      "norm_aggr": "artificial jmlr intelligence statistics",
+      "abbr_norm": "aistats",
+      "abbr_norm_aggr": "aistats"
+    },
+    {
+      "name": "Asian Conference on Computer Vision",
+      "abbr": "ACCV",
+      "level": "C",
+      "norm": "asian conference on computer vision",
+      "norm_aggr": "asian computer vision",
+      "abbr_norm": "accv",
+      "abbr_norm_aggr": "accv"
+    },
+    {
+      "name": "Asian Conference on Machine JMLR Learning",
+      "abbr": "ACML",
+      "level": "C",
+      "norm": "asian conference on machine jmlr learning",
+      "norm_aggr": "asian machine jmlr learning",
+      "abbr_norm": "acml",
+      "abbr_norm_aggr": "acml"
+    },
+    {
+      "name": "British Machine Vision Conference British Machine Vision Association CCF International Conference on",
+      "abbr": "BMVC",
+      "level": "C",
+      "norm": "british machine vision conference british machine vision association ccf international conference on",
+      "norm_aggr": "british machine vision british machine vision ccf",
+      "abbr_norm": "bmvc",
+      "abbr_norm_aggr": "bmvc"
+    },
+    {
+      "name": "Natural Language Processing and Chinese Computing",
+      "abbr": "NLPCC",
+      "level": "C",
+      "norm": "natural language processing and chinese computing",
+      "norm_aggr": "natural language processing chinese computing",
+      "abbr_norm": "nlpcc",
+      "abbr_norm_aggr": "nlpcc"
+    },
+    {
+      "name": "Conference on Computational Natural Association for Language Learning Computational Linguistics",
+      "abbr": "CoNLL",
+      "level": "C",
+      "norm": "conference on computational natural association for language learning computational linguistics",
+      "norm_aggr": "computational natural language learning computational linguistics",
+      "abbr_norm": "conll",
+      "abbr_norm_aggr": "conll"
+    },
+    {
+      "name": "Genetic and Evolutionary Computation Conference",
+      "abbr": "GECCO",
+      "level": "C",
+      "norm": "genetic and evolutionary computation conference",
+      "norm_aggr": "genetic evolutionary computation",
+      "abbr_norm": "gecco",
+      "abbr_norm_aggr": "gecco"
+    },
+    {
+      "name": "IEEE International Conference on Tools with Artificial Intelligence",
+      "abbr": "ICTAI",
+      "level": "C",
+      "norm": "ieee international conference on tools with artificial intelligence",
+      "norm_aggr": "ieee tools with artificial intelligence",
+      "abbr_norm": "ictai",
+      "abbr_norm_aggr": "ictai"
+    },
+    {
+      "name": "IEEE\\RSJ International Conference on Intelligent Robots and Systems",
+      "abbr": "IROS",
+      "level": "C",
+      "norm": "ieee rsj international conference on intelligent robots and systems",
+      "norm_aggr": "ieee rsj intelligent robots systems",
+      "abbr_norm": "iros",
+      "abbr_norm_aggr": "iros"
+    },
+    {
+      "name": "International Conference on Algorithmic Learning Theory",
+      "abbr": "ALT",
+      "level": "C",
+      "norm": "international conference on algorithmic learning theory",
+      "norm_aggr": "algorithmic learning theory",
+      "abbr_norm": "alt",
+      "abbr_norm_aggr": "alt"
+    },
+    {
+      "name": "International Conference on Artificial Neural Networks",
+      "abbr": "ICANN",
+      "level": "C",
+      "norm": "international conference on artificial neural networks",
+      "norm_aggr": "artificial neural networks",
+      "abbr_norm": "icann",
+      "abbr_norm_aggr": "icann"
+    },
+    {
+      "name": "IEEE International Conference on Automatic Face and Gesture Recognition",
+      "abbr": "FG",
+      "level": "C",
+      "norm": "ieee international conference on automatic face and gesture recognition",
+      "norm_aggr": "ieee automatic face gesture recognition",
+      "abbr_norm": "fg",
+      "abbr_norm_aggr": "fg"
+    },
+    {
+      "name": "International Conference on Document Analysis and Recognition",
+      "abbr": "ICDAR",
+      "level": "C",
+      "norm": "international conference on document analysis and recognition",
+      "norm_aggr": "document analysis recognition",
+      "abbr_norm": "icdar",
+      "abbr_norm_aggr": "icdar"
+    },
+    {
+      "name": "International Conference on Inductive Logic Programming",
+      "abbr": "ILP",
+      "level": "C",
+      "norm": "international conference on inductive logic programming",
+      "norm_aggr": "inductive logic programming",
+      "abbr_norm": "ilp",
+      "abbr_norm_aggr": "ilp"
+    },
+    {
+      "name": "International conference on Knowledge Science, Engineering and Management",
+      "abbr": "KSEM",
+      "level": "C",
+      "norm": "international conference on knowledge science engineering and management",
+      "norm_aggr": "knowledge science engineering management",
+      "abbr_norm": "ksem",
+      "abbr_norm_aggr": "ksem"
+    },
+    {
+      "name": "International Conference on Neural Information Processing",
+      "abbr": "ICONIP",
+      "level": "C",
+      "norm": "international conference on neural information processing",
+      "norm_aggr": "neural information processing",
+      "abbr_norm": "iconip",
+      "abbr_norm_aggr": "iconip"
+    },
+    {
+      "name": "International Conference on Pattern Recognition",
+      "abbr": "ICPR",
+      "level": "C",
+      "norm": "international conference on pattern recognition",
+      "norm_aggr": "pattern recognition",
+      "abbr_norm": "icpr",
+      "abbr_norm_aggr": "icpr"
+    },
+    {
+      "name": "International Joint Conference on Biometrics",
+      "abbr": "IJCB",
+      "level": "C",
+      "norm": "international joint conference on biometrics",
+      "norm_aggr": "joint biometrics",
+      "abbr_norm": "ijcb",
+      "abbr_norm_aggr": "ijcb"
+    },
+    {
+      "name": "International Joint Conference on Neural Networks",
+      "abbr": "IJCNN",
+      "level": "C",
+      "norm": "international joint conference on neural networks",
+      "norm_aggr": "joint neural networks",
+      "abbr_norm": "ijcnn",
+      "abbr_norm_aggr": "ijcnn"
+    },
+    {
+      "name": "Pacific Rim International Conference on Artificial Intelligence",
+      "abbr": "PRICAI",
+      "level": "C",
+      "norm": "pacific rim international conference on artificial intelligence",
+      "norm_aggr": "pacific rim artificial intelligence",
+      "abbr_norm": "pricai",
+      "abbr_norm_aggr": "pricai"
+    },
+    {
+      "name": "ACM Transactions on Computer-Human Interaction",
+      "abbr": "TOCHI",
+      "level": "A",
+      "norm": "acm transactions on computer human interaction",
+      "norm_aggr": "acm computer human interaction",
+      "abbr_norm": "tochi",
+      "abbr_norm_aggr": "tochi"
+    },
+    {
+      "name": "Computer Supported Cooperative Work",
+      "abbr": "CSCW",
+      "level": "B",
+      "norm": "computer supported cooperative work",
+      "norm_aggr": "computer supported cooperative work",
+      "abbr_norm": "cscw",
+      "abbr_norm_aggr": "cscw"
+    },
+    {
+      "name": "Human-Computer Interaction Taylor & Francis",
+      "abbr": "HCI",
+      "level": "B",
+      "norm": "human computer interaction taylor and francis",
+      "norm_aggr": "human computer interaction taylor francis",
+      "abbr_norm": "hci",
+      "abbr_norm_aggr": "hci"
+    },
+    {
+      "name": "Interacting with Computers Oxford University Press",
+      "abbr": "IWC",
+      "level": "B",
+      "norm": "interacting with computers oxford university press",
+      "norm_aggr": "interacting with computers oxford university press",
+      "abbr_norm": "iwc",
+      "abbr_norm_aggr": "iwc"
+    },
+    {
+      "name": "International Journal of Human-Computer Taylor & Francis Interaction",
+      "abbr": "IJHCI",
+      "level": "B",
+      "norm": "international journal of human computer taylor and francis interaction",
+      "norm_aggr": "human computer taylor francis interaction",
+      "abbr_norm": "ijhci",
+      "abbr_norm_aggr": "ijhci"
+    },
+    {
+      "name": "User Modeling and User-Adapted Interaction",
+      "abbr": "UMUAI",
+      "level": "B",
+      "norm": "user modeling and user adapted interaction",
+      "norm_aggr": "user modeling user adapted interaction",
+      "abbr_norm": "umuai",
+      "abbr_norm_aggr": "umuai"
+    },
+    {
+      "name": "Behaviour & Information Technology Taylor & Francis",
+      "abbr": "BIT",
+      "level": "C",
+      "norm": "behaviour and information technology taylor and francis",
+      "norm_aggr": "behaviour information technology taylor francis",
+      "abbr_norm": "bit",
+      "abbr_norm_aggr": "bit"
+    },
+    {
+      "name": "Personal and Ubiquitous Computing",
+      "abbr": "PUC",
+      "level": "C",
+      "norm": "personal and ubiquitous computing",
+      "norm_aggr": "personal ubiquitous computing",
+      "abbr_norm": "puc",
+      "abbr_norm_aggr": "puc"
+    },
+    {
+      "name": "Pervasive and Mobile Computing",
+      "abbr": "PMC",
+      "level": "C",
+      "norm": "pervasive and mobile computing",
+      "norm_aggr": "pervasive mobile computing",
+      "abbr_norm": "pmc",
+      "abbr_norm_aggr": "pmc"
+    },
+    {
+      "name": "Proceedings of the ACM on Human- Computer Interaction ml",
+      "abbr": "PACMHCI",
+      "level": "C",
+      "norm": "proceedings of the acm on human computer interaction ml",
+      "norm_aggr": "acm human computer interaction ml",
+      "abbr_norm": "pacmhci",
+      "abbr_norm_aggr": "pacmhci"
+    },
+    {
+      "name": "ACM Conference On Computer- SupportedCooperative Work And Social Computing",
+      "abbr": "CSCW",
+      "level": "A",
+      "norm": "acm conference on computer supportedcooperative work and social computing",
+      "norm_aggr": "acm computer supportedcooperative work social computing",
+      "abbr_norm": "cscw",
+      "abbr_norm_aggr": "cscw"
+    },
+    {
+      "name": "ACM Conference on Human Factors in Computing Systems",
+      "abbr": "CHI",
+      "level": "A",
+      "norm": "acm conference on human factors in computing systems",
+      "norm_aggr": "acm human factors in computing systems",
+      "abbr_norm": "chi",
+      "abbr_norm_aggr": "chi"
+    },
+    {
+      "name": "ACM international joint conference on Pervasive and Ubiquitous Computing",
+      "abbr": "UbiComp",
+      "level": "A",
+      "norm": "acm international joint conference on pervasive and ubiquitous computing",
+      "norm_aggr": "acm joint pervasive ubiquitous computing",
+      "abbr_norm": "ubicomp",
+      "abbr_norm_aggr": "ubicomp"
+    },
+    {
+      "name": "ACM International Conference on Supporting Group Work",
+      "abbr": "GROUP",
+      "level": "B",
+      "norm": "acm international conference on supporting group work",
+      "norm_aggr": "acm supporting group work",
+      "abbr_norm": "group",
+      "abbr_norm_aggr": "group"
+    },
+    {
+      "name": "ACM International Conference on Intelligent User Interfaces",
+      "abbr": "IUI",
+      "level": "B",
+      "norm": "acm international conference on intelligent user interfaces",
+      "norm_aggr": "acm intelligent user interfaces",
+      "abbr_norm": "iui",
+      "abbr_norm_aggr": "iui"
+    },
+    {
+      "name": "ACM International Conference on Interactive Tabletops and Surfaces",
+      "abbr": "ITS",
+      "level": "B",
+      "norm": "acm international conference on interactive tabletops and surfaces",
+      "norm_aggr": "acm interactive tabletops surfaces",
+      "abbr_norm": "its",
+      "abbr_norm_aggr": "its"
+    },
+    {
+      "name": "European Conference on Computer Supported Cooperative Work",
+      "abbr": "ECSCW",
+      "level": "B",
+      "norm": "european conference on computer supported cooperative work",
+      "norm_aggr": "european computer supported cooperative work",
+      "abbr_norm": "ecscw",
+      "abbr_norm_aggr": "ecscw"
+    },
+    {
+      "name": "IEEE International Conference on Pervasive Computing and Communications",
+      "abbr": "PERCOM",
+      "level": "B",
+      "norm": "ieee international conference on pervasive computing and communications",
+      "norm_aggr": "ieee pervasive computing communications",
+      "abbr_norm": "percom",
+      "abbr_norm_aggr": "percom"
+    },
+    {
+      "name": "ACM International Conference on Mobile Human-ComputerInteraction",
+      "abbr": "MobileHCI",
+      "level": "B",
+      "norm": "acm international conference on mobile human computerinteraction",
+      "norm_aggr": "acm mobile human computerinteraction",
+      "abbr_norm": "mobilehci",
+      "abbr_norm_aggr": "mobilehci"
+    },
+    {
+      "name": "ACM SIGCHI Conference on Designing Interactive Systems",
+      "abbr": "DIS",
+      "level": "C",
+      "norm": "acm sigchi conference on designing interactive systems",
+      "norm_aggr": "acm sigchi designing interactive systems",
+      "abbr_norm": "dis",
+      "abbr_norm_aggr": "dis"
+    },
+    {
+      "name": "ACM International Conference on Multimodal Interaction",
+      "abbr": "ICMI",
+      "level": "C",
+      "norm": "acm international conference on multimodal interaction",
+      "norm_aggr": "acm multimodal interaction",
+      "abbr_norm": "icmi",
+      "abbr_norm_aggr": "icmi"
+    },
+    {
+      "name": "International ACM SIGACCESS Conference on Computers and Accessibility",
+      "abbr": "ASSETS",
+      "level": "C",
+      "norm": "international acm sigaccess conference on computers and accessibility",
+      "norm_aggr": "acm sigaccess computers accessibility",
+      "abbr_norm": "assets",
+      "abbr_norm_aggr": "assets"
+    },
+    {
+      "name": "Graphics Interface",
+      "abbr": "GI",
+      "level": "C",
+      "norm": "graphics interface",
+      "norm_aggr": "graphics interface",
+      "abbr_norm": "gi",
+      "abbr_norm_aggr": "gi"
+    },
+    {
+      "name": "IEEE International Conference on Ubiquitous Intelligence and Computing",
+      "abbr": "UIC",
+      "level": "C",
+      "norm": "ieee international conference on ubiquitous intelligence and computing",
+      "norm_aggr": "ieee ubiquitous intelligence computing",
+      "abbr_norm": "uic",
+      "abbr_norm_aggr": "uic"
+    },
+    {
+      "name": "International Conference on Human- Computer Interaction of IFIP International Federation for Information Processing",
+      "abbr": "INTERACT",
+      "level": "C",
+      "norm": "international conference on human computer interaction of ifip international federation for information processing",
+      "norm_aggr": "human computer interaction ifip federation information processing",
+      "abbr_norm": "interact",
+      "abbr_norm_aggr": "interact"
+    },
+    {
+      "name": "ACM Interaction Design and Children",
+      "abbr": "IDC",
+      "level": "C",
+      "norm": "acm interaction design and children",
+      "norm_aggr": "acm interaction design children",
+      "abbr_norm": "idc",
+      "abbr_norm_aggr": "idc"
+    },
+    {
+      "name": "International Conference on Collaborative Computing: Networking, Applications and Worksharing",
+      "abbr": "CollaborateCom",
+      "level": "C",
+      "norm": "international conference on collaborative computing networking applications and worksharing",
+      "norm_aggr": "collaborative computing networking applications worksharing",
+      "abbr_norm": "collaboratecom",
+      "abbr_norm_aggr": "collaboratecom"
+    },
+    {
+      "name": "International Conference on Computer Supported Cooperative Work in Design",
+      "abbr": "CSCWD",
+      "level": "C",
+      "norm": "international conference on computer supported cooperative work in design",
+      "norm_aggr": "computer supported cooperative work in design",
+      "abbr_norm": "cscwd",
+      "abbr_norm_aggr": "cscwd"
+    },
+    {
+      "name": "International Conference on Cooperative Information Systems",
+      "abbr": "CoopIS",
+      "level": "C",
+      "norm": "international conference on cooperative information systems",
+      "norm_aggr": "cooperative information systems",
+      "abbr_norm": "coopis",
+      "abbr_norm_aggr": "coopis"
+    },
+    {
+      "name": "International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services",
+      "abbr": "MobiQuitous",
+      "level": "C",
+      "norm": "international conference on mobile and ubiquitous systems computing networking and services",
+      "norm_aggr": "mobile ubiquitous systems computing networking services",
+      "abbr_norm": "mobiquitous",
+      "abbr_norm_aggr": "mobiquitous"
+    },
+    {
+      "name": "International Working Conference on Advanced Visual Interfaces",
+      "abbr": "AVI",
+      "level": "C",
+      "norm": "international working conference on advanced visual interfaces",
+      "norm_aggr": "working advanced visual interfaces",
+      "abbr_norm": "avi",
+      "abbr_norm_aggr": "avi"
+    },
+    {
+      "name": "Journal of the ACM",
+      "abbr": "JACM",
+      "level": "A",
+      "norm": "journal of the acm",
+      "norm_aggr": "acm",
+      "abbr_norm": "jacm",
+      "abbr_norm_aggr": "jacm"
+    },
+    {
+      "name": "Proceedings of the IEEE",
+      "abbr": "Proc. IEEE",
+      "level": "A",
+      "norm": "proceedings of the ieee",
+      "norm_aggr": "ieee",
+      "abbr_norm": "proc ieee",
+      "abbr_norm_aggr": "proc ieee"
+    },
+    {
+      "name": "Oxford University Press",
+      "abbr": "Bioinformatics",
+      "level": "B",
+      "norm": "oxford university press",
+      "norm_aggr": "oxford university press",
+      "abbr_norm": "bioinformatics",
+      "abbr_norm_aggr": "bioinformatics"
+    },
+    {
+      "name": "Oxford University Press",
+      "abbr": "Briefings in Bioinformatics",
+      "level": "B",
+      "norm": "oxford university press",
+      "norm_aggr": "oxford university press",
+      "abbr_norm": "briefings in bioinformatics",
+      "abbr_norm_aggr": "briefings in bioinformatics"
+    },
+    {
+      "name": "IEEE Transactions on Automation Science",
+      "abbr": "Cognition",
+      "level": "B",
+      "norm": "ieee transactions on automation science",
+      "norm_aggr": "ieee automation science",
+      "abbr_norm": "cognition",
+      "abbr_norm_aggr": "cognition"
+    },
+    {
+      "name": "and Engineering",
+      "abbr": "TASAE",
+      "level": "B",
+      "norm": "and engineering",
+      "norm_aggr": "engineering",
+      "abbr_norm": "tasae",
+      "abbr_norm_aggr": "tasae"
+    },
+    {
+      "name": "IEEE Transactions on Geoscience and Remote Sensing",
+      "abbr": "TGARS",
+      "level": "B",
+      "norm": "ieee transactions on geoscience and remote sensing",
+      "norm_aggr": "ieee geoscience remote sensing",
+      "abbr_norm": "tgars",
+      "abbr_norm_aggr": "tgars"
+    },
+    {
+      "name": "IEEE Transactions on Intelligent Transportation Systems",
+      "abbr": "TITS",
+      "level": "B",
+      "norm": "ieee transactions on intelligent transportation systems",
+      "norm_aggr": "ieee intelligent transportation systems",
+      "abbr_norm": "tits",
+      "abbr_norm_aggr": "tits"
+    },
+    {
+      "name": "IEEE Transactions on Medical Imaging",
+      "abbr": "TMI",
+      "level": "B",
+      "norm": "ieee transactions on medical imaging",
+      "norm_aggr": "ieee medical imaging",
+      "abbr_norm": "tmi",
+      "abbr_norm_aggr": "tmi"
+    },
+    {
+      "name": "IEEE Transactions on Robotics IEEE/ACM Transactions on Computational",
+      "abbr": "TR",
+      "level": "B",
+      "norm": "ieee transactions on robotics ieee acm transactions on computational",
+      "norm_aggr": "ieee robotics ieee acm computational",
+      "abbr_norm": "tr",
+      "abbr_norm_aggr": "tr"
+    },
+    {
+      "name": "Biology and Bioinformatics IEEE/ACM",
+      "abbr": "TCBB",
+      "level": "B",
+      "norm": "biology and bioinformatics ieee acm",
+      "norm_aggr": "biology bioinformatics ieee acm",
+      "abbr_norm": "tcbb",
+      "abbr_norm_aggr": "tcbb"
+    },
+    {
+      "name": "Journal of Computer Science and Technology SCIENCE PRESS/Springer",
+      "abbr": "JCST",
+      "level": "B",
+      "norm": "journal of computer science and technology science press springer",
+      "norm_aggr": "computer science technology science press springer",
+      "abbr_norm": "jcst",
+      "abbr_norm_aggr": "jcst"
+    },
+    {
+      "name": "Journal of the American Medical Informatics BMJ Journals Association",
+      "abbr": "JAMIA",
+      "level": "B",
+      "norm": "journal of the american medical informatics bmj journals association",
+      "norm_aggr": "american medical informatics bmj journals",
+      "abbr_norm": "jamia",
+      "abbr_norm_aggr": "jamia"
+    },
+    {
+      "name": "Public Library of Science",
+      "abbr": "PLOS Computational Biology",
+      "level": "B",
+      "norm": "public library of science",
+      "norm_aggr": "public library science",
+      "abbr_norm": "plos computational biology",
+      "abbr_norm_aggr": "plos computational biology"
+    },
+    {
+      "name": "Oxford University Press",
+      "abbr": "The Computer Journal",
+      "level": "B",
+      "norm": "oxford university press",
+      "norm_aggr": "oxford university press",
+      "abbr_norm": "the computer journal",
+      "abbr_norm_aggr": "computer"
+    },
+    {
+      "name": "World Wide Web",
+      "abbr": "WWW",
+      "level": "B",
+      "norm": "world wide web",
+      "norm_aggr": "world wide web",
+      "abbr_norm": "www",
+      "abbr_norm_aggr": "www"
+    },
+    {
+      "name": "BioMed Central",
+      "abbr": "BMC Bioinformatics",
+      "level": "C",
+      "norm": "biomed central",
+      "norm_aggr": "biomed central",
+      "abbr_norm": "bmc bioinformatics",
+      "abbr_norm_aggr": "bmc bioinformatics"
+    },
+    {
+      "name": "Taylor & Francis IEEE Geoscience and Remote Sensing",
+      "abbr": "Cybernetics and Systems",
+      "level": "C",
+      "norm": "taylor and francis ieee geoscience and remote sensing",
+      "norm_aggr": "taylor francis ieee geoscience remote sensing",
+      "abbr_norm": "cybernetics and systems",
+      "abbr_norm_aggr": "cybernetics systems"
+    },
+    {
+      "name": "IEEE Journal of Biomedical and Health",
+      "abbr": "Letters JBHI",
+      "level": "C",
+      "norm": "ieee journal of biomedical and health",
+      "norm_aggr": "ieee biomedical health",
+      "abbr_norm": "letters jbhi",
+      "abbr_norm_aggr": "jbhi"
+    },
+    {
+      "name": "Informatics",
+      "abbr": "",
+      "level": "C",
+      "norm": "informatics",
+      "norm_aggr": "informatics"
+    },
+    {
+      "name": "IEEE Transactions on Big Data",
+      "abbr": "TBD",
+      "level": "C",
+      "norm": "ieee transactions on big data",
+      "norm_aggr": "ieee big data",
+      "abbr_norm": "tbd",
+      "abbr_norm_aggr": "tbd"
+    },
+    {
+      "name": "IET",
+      "abbr": "IET Intelligent Transport Systems",
+      "level": "C",
+      "norm": "iet",
+      "norm_aggr": "iet",
+      "abbr_norm": "iet intelligent transport systems",
+      "abbr_norm_aggr": "iet intelligent transport systems"
+    },
+    {
+      "name": "Journal of Biomedical Informatics",
+      "abbr": "JBI",
+      "level": "C",
+      "norm": "journal of biomedical informatics",
+      "norm_aggr": "biomedical informatics",
+      "abbr_norm": "jbi",
+      "abbr_norm_aggr": "jbi"
+    },
+    {
+      "name": "IEEE Transactions on Industrial Informatics",
+      "abbr": "TII",
+      "level": "C",
+      "norm": "ieee transactions on industrial informatics",
+      "norm_aggr": "ieee industrial informatics",
+      "abbr_norm": "tii",
+      "abbr_norm_aggr": "tii"
+    },
+    {
+      "name": "ACM Transactions on Cyber- Physical Systems",
+      "abbr": "TCPS",
+      "level": "C",
+      "norm": "acm transactions on cyber physical systems",
+      "norm_aggr": "acm cyber physical systems",
+      "abbr_norm": "tcps",
+      "abbr_norm_aggr": "tcps"
+    },
+    {
+      "name": "ACM Transactions on Computing Education",
+      "abbr": "TOCE",
+      "level": "C",
+      "norm": "acm transactions on computing education",
+      "norm_aggr": "acm computing education",
+      "abbr_norm": "toce",
+      "abbr_norm_aggr": "toce"
+    },
+    {
+      "name": "Frontiers of Information Technology & Electronic Engineering",
+      "abbr": "FITEE",
+      "level": "C",
+      "norm": "frontiers of information technology and electronic engineering",
+      "norm_aggr": "frontiers information technology electronic engineering",
+      "abbr_norm": "fitee",
+      "abbr_norm_aggr": "fitee"
+    },
+    {
+      "name": "IEEE Transactions on Computational Social Systems",
+      "abbr": "TCSS",
+      "level": "C",
+      "norm": "ieee transactions on computational social systems",
+      "norm_aggr": "ieee computational social systems",
+      "abbr_norm": "tcss",
+      "abbr_norm_aggr": "tcss"
+    },
+    {
+      "name": "International World Wide Web Conference",
+      "abbr": "WWW",
+      "level": "A",
+      "norm": "international world wide web conference",
+      "norm_aggr": "world wide web",
+      "abbr_norm": "www",
+      "abbr_norm_aggr": "www"
+    },
+    {
+      "name": "IEEE Real-Time Systems Symposium",
+      "abbr": "RTSS",
+      "level": "A",
+      "norm": "ieee real time systems symposium",
+      "norm_aggr": "ieee real time systems",
+      "abbr_norm": "rtss",
+      "abbr_norm_aggr": "rtss"
+    },
+    {
+      "name": "Annual Meeting of the Cognitive Science Society Psychology Press",
+      "abbr": "CogSci",
+      "level": "B",
+      "norm": "annual meeting of the cognitive science society psychology press",
+      "norm_aggr": "meeting cognitive science psychology press",
+      "abbr_norm": "cogsci",
+      "abbr_norm_aggr": "cogsci"
+    },
+    {
+      "name": "IEEE International Conference on Bioinformatics and Biomedicine",
+      "abbr": "BIBM",
+      "level": "B",
+      "norm": "ieee international conference on bioinformatics and biomedicine",
+      "norm_aggr": "ieee bioinformatics biomedicine",
+      "abbr_norm": "bibm",
+      "abbr_norm_aggr": "bibm"
+    },
+    {
+      "name": "International Conference on Embedded Software ACM/IEEE/IFIP International conference on Intelligent Systems for",
+      "abbr": "EMSOFT",
+      "level": "B",
+      "norm": "international conference on embedded software acm ieee ifip international conference on intelligent systems for",
+      "norm_aggr": "embedded software acm ieee ifip intelligent systems",
+      "abbr_norm": "emsoft",
+      "abbr_norm_aggr": "emsoft"
+    },
+    {
+      "name": "Molecular Biology Oxford Journals ml",
+      "abbr": "ISMB",
+      "level": "B",
+      "norm": "molecular biology oxford journals ml",
+      "norm_aggr": "molecular biology oxford journals ml",
+      "abbr_norm": "ismb",
+      "abbr_norm_aggr": "ismb"
+    },
+    {
+      "name": "Annual International Conference on Research in Computational Molecular Biology",
+      "abbr": "RECOMB",
+      "level": "B",
+      "norm": "annual international conference on research in computational molecular biology",
+      "norm_aggr": "research in computational molecular biology",
+      "abbr_norm": "recomb",
+      "abbr_norm_aggr": "recomb"
+    },
+    {
+      "name": "American Medical Informatics Association Annual Symposium",
+      "abbr": "AMIA",
+      "level": "C",
+      "norm": "american medical informatics association annual symposium",
+      "norm_aggr": "american medical informatics",
+      "abbr_norm": "amia",
+      "abbr_norm_aggr": "amia"
+    },
+    {
+      "name": "Asia Pacific Bioinformatics Conference BioMed Central",
+      "abbr": "APBC",
+      "level": "C",
+      "norm": "asia pacific bioinformatics conference biomed central",
+      "norm_aggr": "asia pacific bioinformatics biomed central",
+      "abbr_norm": "apbc",
+      "abbr_norm_aggr": "apbc"
+    },
+    {
+      "name": "IEEE International Conference on Big Data",
+      "abbr": "IEEE BigData",
+      "level": "C",
+      "norm": "ieee international conference on big data",
+      "norm_aggr": "ieee big data",
+      "abbr_norm": "ieee bigdata",
+      "abbr_norm_aggr": "ieee bigdata"
+    },
+    {
+      "name": "IEEE International Conference on Cloud Computing",
+      "abbr": "IEEE CLOUD",
+      "level": "C",
+      "norm": "ieee international conference on cloud computing",
+      "norm_aggr": "ieee cloud computing",
+      "abbr_norm": "ieee cloud",
+      "abbr_norm_aggr": "ieee cloud"
+    },
+    {
+      "name": "IEEE International Conference on Systems, Man, and Cybernetics",
+      "abbr": "SMC",
+      "level": "C",
+      "norm": "ieee international conference on systems man and cybernetics",
+      "norm_aggr": "ieee systems man cybernetics",
+      "abbr_norm": "smc",
+      "abbr_norm_aggr": "smc"
+    },
+    {
+      "name": "International Conference on Spatial Information Theory",
+      "abbr": "COSIT",
+      "level": "C",
+      "norm": "international conference on spatial information theory",
+      "norm_aggr": "spatial information theory",
+      "abbr_norm": "cosit",
+      "abbr_norm_aggr": "cosit"
+    },
+    {
+      "name": "International Symposium on Bioinformatics Research and Applications",
+      "abbr": "ISBRA",
+      "level": "C",
+      "norm": "international symposium on bioinformatics research and applications",
+      "norm_aggr": "bioinformatics research applications",
+      "abbr_norm": "isbra",
+      "abbr_norm_aggr": "isbra"
+    },
+    {
+      "name": "International Symposium on Algorithmic Game Theory SIGSPATI ACM Special Interest Group on Spatial",
+      "abbr": "SAGT",
+      "level": "C",
+      "norm": "international symposium on algorithmic game theory sigspati acm special interest group on spatial",
+      "norm_aggr": "algorithmic game theory sigspati acm special interest group spatial",
+      "abbr_norm": "sagt",
+      "abbr_norm_aggr": "sagt"
+    },
+    {
+      "name": "Information International Conference on Intelligent Springer-Nature",
+      "abbr": "AL",
+      "level": "C",
+      "norm": "information international conference on intelligent springer nature",
+      "norm_aggr": "information intelligent springer nature",
+      "abbr_norm": "al",
+      "abbr_norm_aggr": "al"
+    },
+    {
+      "name": "Computing",
+      "abbr": "ICIC",
+      "level": "C",
+      "norm": "computing",
+      "norm_aggr": "computing",
+      "abbr_norm": "icic",
+      "abbr_norm_aggr": "icic"
+    }
+  ]
+}
