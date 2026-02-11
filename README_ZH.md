@@ -30,7 +30,7 @@ python3 [YOUR_SKILLS_DIR]/arxiv-topic-review/scripts/arxiv_pipeline.py \
   --use-ccf
 ```
 
-输出目录默认为当前工作目录下的 `./knowledge/`。
+输出目录默认为当前工作目录下的 `./sample/`。
 
 ## 关键参数
 
@@ -44,7 +44,7 @@ python3 [YOUR_SKILLS_DIR]/arxiv-topic-review/scripts/arxiv_pipeline.py \
 - `--ccf-fuzzy-threshold`：模糊匹配阈值（默认 0.88）
 - `--summary-mode`：`auto`、`llm` 或 `extractive`
 - `--language`：`en` 或 `zh`
-- `--report-dir`：输出目录（默认 `./knowledge`）
+- `--report-dir`：输出目录（默认 `./sample`）
 - `--cache-dir`：源码缓存目录
 - `--skip-existing`：跳过已存在的摘要文件
 

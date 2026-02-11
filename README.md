@@ -30,7 +30,7 @@ python3 [YOUR_SKILLS_DIR]/arxiv-topic-review/scripts/arxiv_pipeline.py \
   --use-ccf
 ```
 
-Outputs are written to `./knowledge/summary_*.md` and `./knowledge/index.md` in your current working directory.
+Outputs are written to `./sample/summary_*.md` and `./sample/index.md` in your current working directory.
 
 ## Core Arguments
 
@@ -44,7 +44,7 @@ Outputs are written to `./knowledge/summary_*.md` and `./knowledge/index.md` in 
 - `--ccf-fuzzy-threshold`: Fuzzy match threshold (default 0.88)
 - `--summary-mode`: `auto`, `llm`, or `extractive`
 - `--language`: `en` or `zh`
-- `--report-dir`: Output directory (default `./knowledge`)
+- `--report-dir`: Output directory (default `./sample`)
 - `--cache-dir`: Cache directory for arXiv source downloads
 - `--skip-existing`: Skip summary files that already exist
 

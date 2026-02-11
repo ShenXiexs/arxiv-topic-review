@@ -601,7 +601,7 @@ def main() -> None:
     parser.add_argument("--llm-base-url")
     parser.add_argument("--llm-max-tokens", type=int, default=700)
     parser.add_argument("--llm-temperature", type=float, default=0.2)
-    parser.add_argument("--report-dir", default=str(Path.cwd() / "knowledge"))
+    parser.add_argument("--report-dir", default=str(Path.cwd() / "sample"))
     parser.add_argument("--cache-dir", default=str(Path.home() / ".cache/arxiv-topic-review"))
     parser.add_argument("--max-body-chars", type=int, default=12000)
     parser.add_argument("--skip-existing", action="store_true")

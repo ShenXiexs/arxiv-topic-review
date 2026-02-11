@@ -32,7 +32,7 @@ python3 [YOUR_SKILLS_DIR]/arxiv-topic-review/scripts/arxiv_pipeline.py \
   --use-ccf
 ```
 
-Outputs are written to `./knowledge/summary_*.md` and `./knowledge/index.md` in your current working directory.
+Outputs are written to `./sample/summary_*.md` and `./sample/index.md` in your current working directory.
 
 The skill ships with a prebuilt `assets/ccf_2022.json`, so it does **not** read the PDF at runtime.
 
@@ -52,7 +52,7 @@ Bundled reference PDF:
 - `--language`: `en` or `zh` (default: `en`)
 - `--llm-provider`: `openai`, `anthropic`, `codex`, or `claude`
 - `--llm-model`: Model name (required for LLM mode)
-- `--report-dir`: Output directory (default: `./knowledge`)
+- `--report-dir`: Output directory (default: `./sample`)
 
 ## LLM Setup (Optional)
 
